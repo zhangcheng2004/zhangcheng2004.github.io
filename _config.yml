@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Cheng Zhang"
   avatar           : "images/profile.png"
-  bio              : "China University of Geoscience Beijing"
+  bio              : "China University of Geosciences Beijing"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=zorange411@gmail.com"
   email            : "zorange411@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
