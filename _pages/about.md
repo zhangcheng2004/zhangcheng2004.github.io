@@ -17,9 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# Welcome! 
+I am now a senior student at [China University of Geosciences (Beijing)](www.cugb.edu.cn). Fortunately, I am under the guidance of Professor [Li Li](https://scholar.cugb.edu.cn/scholar/scholarDetail/620.shtml) from the School of Economics and Management. During my junior year, I published three SCI papers.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Since July 2024, I have been working as a daily intern at [TAL Education Group](https://www.100tal.com/) in Beijing, responsible for business data analysis and AI-related tasks, under the supervision of Ms. Han Zhou.
+
+My research interests include energy economics, environmental economics, and machine learning. **Presently, I am deeply involved in specific projects related to new productive forces for my undergraduate thesis research**.
+
+You can find my resume here: [Cheng Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:zorange411@gmail.com).
+
+I hope this helps you better understand my background and research directions.
 
 
 # 🔥 News
