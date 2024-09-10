@@ -30,25 +30,30 @@ I hope this helps you better understand my background and research directions.
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 New Paper _The impact of digital economy on energy conservation and emission reduction: evidence from prefecture-level cities in China_ Accepted by **Sustainable Futures** (First Author). 
-- *2024.08*: &nbsp;🎉🎉 New Paper _The coordinated development among economy, society, energy, and environment and their impacts on public health in China's cities_ Accepted by **Journal of Cleaner Production** (First Author).
-- *2024.06*: &nbsp;🎉🎉 New Paper _Spatio-temporal differentiation characteristics and the influencing factors of PM2.5 emissions from coal consumption in Central Plains Urban Agglomeration_ Accepted by **Science of The Total Environment** (Third Author).
+- *2024.08*: &nbsp;🎉🎉 New Paper _The impact of digital economy on energy conservation and emission reduction: evidence from prefecture-level cities in China_ Accepted by **Sustainable Futures** (IF=3.3, First Author). 
+- *2024.08*: &nbsp;🎉🎉 New Paper _The coordinated development among economy, society, energy, and environment and their impacts on public health in China's cities_ Accepted by **Journal of Cleaner Production** (IF=9.7, First Author).
+- *2024.06*: &nbsp;🎉🎉 New Paper _Spatio-temporal differentiation characteristics and the influencing factors of PM2.5 emissions from coal consumption in Central Plains Urban Agglomeration_ Accepted by **Science of The Total Environment** (IF=8.2, Third Author).
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+- 🎓During My Master's Research Program
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Futures</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[The impact of digital economy on energy conservation and emission reduction: evidence from prefecture-level cities in China](https://authors.elsevier.com/tracking/article/details.do?aid=100288&jid=SFTR&surname=Zhang)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Cheng Zhang**, Yirui Zhang, Hua Zhang, Jiaying You, Xinke Lv, Xinyu Cheng
 
+[**Project**](https://ieeexplore.ieee.org/document/10217826) | <strong>SCI Journal Paper</strong>
+- Sustainable Futures, vol. 11, pp. 87732-87746, 2023, doi: 10.1109/ACCESS.2023.3305453.
+</div>
+</div>
+
+<!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
