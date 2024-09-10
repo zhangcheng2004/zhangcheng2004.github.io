@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now a senior student at [China University of Geosciences (Beijing)](www.cugb.edu.cn). Fortunately, I am under the guidance of Professor [Li Li](https://scholar.cugb.edu.cn/scholar/scholarDetail/620.shtml) from the School of Economics and Management. During my junior year, I published three SCI papers.
+I am now a senior student at [China University of Geosciences (Beijing)](www.cugb.edu.cn). Fortunately, I am under the guidance of Prof. [Li Li](https://scholar.cugb.edu.cn/scholar/scholarDetail/620.shtml) from the School of Economics and Management. During my junior year, I published three SCI papers.
 
 Since July 2024, I have been working as a daily intern at [TAL Education Group](https://www.100tal.com/) in Beijing, responsible for business data analysis and AI-related tasks, under the supervision of Ms. Han Zhou.
 
@@ -111,7 +111,7 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 *2024.07 - now*, [TAL Education Group](https://www.100tal.com/), China.
 
 - **Business Data Analytics & AI Engineer**
-- Advised by Mrs. Han Zhou
+- Advised by Ms. Han Zhou
 - Jul. 2024 - Nov. 2024
 </div>
 </div>
