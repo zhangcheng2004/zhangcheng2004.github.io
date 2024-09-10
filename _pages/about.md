@@ -100,7 +100,7 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, Bachelor of Economics, China University of Geosciences Beijing, China
-Supervised by Prof. Li Li
+- Supervised by Prof. Li Li
 
 # 💻 Internships
 - *2024.07 - now*, [TAL Education Group](https://www.100tal.com/), China.
