@@ -102,3 +102,15 @@ Supervised by Prof. Li Li
 
 # 💻 Internships
 - *2024.07 - now*, [TAL Education Group](https://www.100tal.com/), China.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TAL Education Group](https://www.100tal.com/)
+
+**Business Data Analytics & AI Engineer**
+- Advised by Mrs. Han Zhou
+- Jul. 2024 - Nov. 2024
+</div>
+</div>
+
+<div c
