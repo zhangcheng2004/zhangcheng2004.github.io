@@ -93,8 +93,10 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 </div>
 -->
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09* Merit student (Top 5%)
+- *2022.09* Outstanding student leader (Top 5%)
+- *2023.12* Love at the Cabbage Hundred • Golden Future Scholarship (Top 5%)
+- *2021-2022* Professional first-class scholarship (twice) (Top 5%)
 
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, Bachelor of Economics, China University of Geosciences Beijing, China
@@ -102,7 +104,7 @@ Supervised by Prof. Li Li
 
 # 💻 Internships
 - *2024.07 - now*, [TAL Education Group](https://www.100tal.com/), China.
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAL</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TAL Education Group](https://www.100tal.com/)
@@ -112,5 +114,3 @@ Supervised by Prof. Li Li
 - Jul. 2024 - Nov. 2024
 </div>
 </div>
-
-<div c
