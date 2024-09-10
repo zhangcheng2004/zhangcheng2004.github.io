@@ -62,7 +62,7 @@ I hope this helps you better understand my background and research directions.
 
 **Cheng Zhang**, Yirui Zhang, Hua Zhang, Jiaying You, Xinke Lv, Xinyu Cheng
 
-[**Project**](https://ieeexplore.ieee.org/document/10217826) | <strong>SCI Journal Paper</strong> (CAS Q2, IF=3.3)
+[**Project**](https://authors.elsevier.com/tracking/article/details.do?aid=100288&jid=SFTR&surname=Zhang) | <strong>SCI Journal Paper</strong> (CAS Q2, IF=3.3)
 - Sustainable Futures, Volume Will appear soon, 2024, doi: Will appear soon.
 </div>
 </div>
@@ -110,7 +110,7 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
   
 *2024.07 - now*, [TAL Education Group](https://www.100tal.com/), China.
 
-- **Business Data Analytics & AI Engineer**
+- **Business Data Analytics and AI Engineer**
 - Advised by Ms. Han Zhou
 - Jul. 2024 - Nov. 2024
 </div>
