@@ -108,7 +108,6 @@ Supervised by Prof. Li Li
 <div class='paper-box-text' markdown="1">
 
 [TAL Education Group](https://www.100tal.com/)
-
 **Business Data Analytics & AI Engineer**
 - Advised by Mrs. Han Zhou
 - Jul. 2024 - Nov. 2024
