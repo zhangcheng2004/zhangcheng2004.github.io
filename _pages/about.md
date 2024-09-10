@@ -32,7 +32,7 @@ I hope this helps you better understand my background and research directions.
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 New Paper _The impact of digital economy on energy conservation and emission reduction: evidence from prefecture-level cities in China_ Accepted by **Sustainable Futures** (First Author). 
 - *2024.08*: &nbsp;🎉🎉 New Paper _The coordinated development among economy, society, energy, and environment and their impacts on public health in China's cities_ Accepted by **Journal of Cleaner Production** (First Author).
-- *2024.08*: &nbsp;🎉🎉 New Paper _Spatio-temporal differentiation characteristics and the influencing factors of PM2.5 emissions from coal consumption in Central Plains Urban Agglomeration_ Accepted by **Science of The Total Environment** (Third Author).
+- *2024.06*: &nbsp;🎉🎉 New Paper _Spatio-temporal differentiation characteristics and the influencing factors of PM2.5 emissions from coal consumption in Central Plains Urban Agglomeration_ Accepted by **Science of The Total Environment** (Third Author).
 
 # 📝 Publications 
 
