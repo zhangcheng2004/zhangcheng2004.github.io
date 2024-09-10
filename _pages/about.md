@@ -36,14 +36,14 @@ I hope this helps you better understand my background and research directions.
 
 # 📝 Publications 
 - 🎓During My Undergraduate Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Futures</div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Cleaner Production</div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The coordinated development among economy, society, energy, and environment and their impacts on public health in China's cities](https://doi.org/10.1016/j.jclepro.2024.143442)
 
 **Cheng Zhang**, Meiyu Jiang, Fujie Yang, Yuehan Wang, Yaxin Xu, Sihan Lin, Li Li, Yalin Lei, Sanmang Wu, Jiao Wang
 
-[**Project**](https://www.sciencedirect.com/science/article/pii/S0959652624028919#fig1) | <strong>SCI Journal Paper</strong>
+[**Project**](https://www.sciencedirect.com/science/article/pii/S0959652624028919#fig1) | <strong>SCI Journal Paper</strong> (CAS Q1, IF=9.7)
 - Journal of Cleaner Production, Volume 472, 2024, doi: 10.1016/j.jclepro.2024.143442.
 </div>
 </div>
@@ -62,7 +62,7 @@ I hope this helps you better understand my background and research directions.
 
 **Cheng Zhang**, Yirui Zhang, Hua Zhang, Jiaying You, Xinke Lv, Xinyu Cheng
 
-[**Project**](https://ieeexplore.ieee.org/document/10217826) | <strong>SCI Journal Paper</strong>
+[**Project**](https://ieeexplore.ieee.org/document/10217826) | <strong>SCI Journal Paper</strong> (CAS Q2, IF=3.3)
 - Sustainable Futures, Volume Will appear soon, 2024, doi: Will appear soon.
 </div>
 </div>
@@ -74,6 +74,24 @@ I hope this helps you better understand my background and research directions.
 </div>
 -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science of The Total Environment</div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spatio-temporal differentiation characteristics and the influencing factors of PM2.5 emissions from coal consumption in Central Plains Urban Agglomeration](https://doi.org/10.1016/j.scitotenv.2024.173778)
+
+Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, Xin Zhang
+
+[**Project**](https://www.sciencedirect.com/science/article/pii/S0048969724039251) | <strong>SCI Journal Paper</strong> (CAS Q1, IF=8.2)
+- Science of The Total Environment, Volume 945, 2024, doi: 10.1016/j.scitotenv.2024.173778.
+</div>
+</div>
+
+<!--
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+-->
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
