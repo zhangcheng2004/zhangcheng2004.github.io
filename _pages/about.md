@@ -58,12 +58,12 @@ I hope this helps you better understand my background and research directions.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Futures</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The impact of digital economy on energy conservation and emission reduction: evidence from prefecture-level cities in China](https://authors.elsevier.com/tracking/article/details.do?aid=100288&jid=SFTR&surname=Zhang)
+[The impact of digital economy on energy conservation and emission reduction: evidence from prefecture-level cities in China](https://doi.org/10.1016/j.sftr.2024.100288)
 
 **Cheng Zhang**, Yirui Zhang, Hua Zhang, Jiaying You, Xinke Lv, Xinyu Cheng
 
-[**Project**](https://authors.elsevier.com/tracking/article/details.do?aid=100288&jid=SFTR&surname=Zhang) | <strong>SCI Journal Paper</strong> (CAS Q2, IF=3.3)
-- Sustainable Futures, Volume Will appear soon, 2024, doi: Will appear soon.
+[**Project**](https://doi.org/10.1016/j.sftr.2024.100288) | <strong>SCI Journal Paper</strong> (CAS Q2, IF=3.3)
+- Sustainable Futures, Volume Will appear soon, 2024, doi: 10.1016/j.sftr.2024.100288.
 </div>
 </div>
 
