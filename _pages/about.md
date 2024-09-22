@@ -43,7 +43,7 @@ I hope this helps you better understand my background and research directions.
 
 **Cheng Zhang**, Meiyu Jiang, Fujie Yang, Yuehan Wang, Yaxin Xu, Sihan Lin, Li Li, Yalin Lei, Sanmang Wu, Jiao Wang
 
-[**Project**](https://www.sciencedirect.com/science/article/pii/S0959652624028919#fig1) | <strong>SCI Journal Paper</strong> (CAS Q1, IF=9.7)
+[**Project**](https://doi.org/10.1016/j.jclepro.2024.143442) | <strong>SCI Journal Paper</strong> (CAS Q1, IF=9.7)
 - Journal of Cleaner Production, Volume 472, 2024, doi: 10.1016/j.jclepro.2024.143442.
 </div>
 </div>
@@ -63,7 +63,7 @@ I hope this helps you better understand my background and research directions.
 **Cheng Zhang**, Yirui Zhang, Hua Zhang, Jiaying You, Xinke Lv, Xinyu Cheng
 
 [**Project**](https://doi.org/10.1016/j.sftr.2024.100288) | <strong>SCI Journal Paper</strong> (CAS Q2, IF=3.3)
-- Sustainable Futures, Volume Will appear soon, 2024, doi: 10.1016/j.sftr.2024.100288.
+- Sustainable Futures, Volume 8, 2024, doi: 10.1016/j.sftr.2024.100288.
 </div>
 </div>
 
@@ -100,7 +100,7 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 
 # 📖 Educations
 - *2021.09 - 2025.06 (now)*, Bachelor of Economics, China University of Geosciences Beijing, China
-- Supervised by Prof. Li Li
+Supervised by Prof. Li Li
 
 # 💻 Internships
 - 🎓During My Undergraduate Program
