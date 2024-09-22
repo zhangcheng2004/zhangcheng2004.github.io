@@ -58,11 +58,11 @@ I hope this helps you better understand my background and research directions.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Futures</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The impact of digital economy on energy conservation and emission reduction: evidence from prefecture-level cities in China](https://doi.org/10.1016/j.sftr.2024.100288)
+[The impact of digital economy on energy conservation and emission reduction: evidence from prefecture-level cities in China](https://www.sciencedirect.com/science/article/pii/S2666188824001370)
 
 **Cheng Zhang**, Yirui Zhang, Hua Zhang, Jiaying You, Xinke Lv, Xinyu Cheng
 
-[**Project**](https://doi.org/10.1016/j.sftr.2024.100288) | <strong>SCI Journal Paper</strong> (CAS Q2, IF=3.3)
+[**Project**](https://www.sciencedirect.com/science/article/pii/S2666188824001370) | <strong>SCI Journal Paper</strong> (CAS Q2, IF=3.3)
 - Sustainable Futures, Volume 8, 2024, doi: 10.1016/j.sftr.2024.100288.
 </div>
 </div>
@@ -77,7 +77,7 @@ I hope this helps you better understand my background and research directions.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science of The Total Environment</div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Spatio-temporal differentiation characteristics and the influencing factors of PM2.5 emissions from coal consumption in Central Plains Urban Agglomeration](https://doi.org/10.1016/j.scitotenv.2024.173778)
+[Spatio-temporal differentiation characteristics and the influencing factors of PM2.5 emissions from coal consumption in Central Plains Urban Agglomeration](https://www.sciencedirect.com/science/article/abs/pii/S0048969724039251)
 
 Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, Xin Zhang
 
