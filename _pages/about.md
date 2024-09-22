@@ -39,11 +39,11 @@ I hope this helps you better understand my background and research directions.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Cleaner Production</div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The coordinated development among economy, society, energy, and environment and their impacts on public health in China's cities](https://doi.org/10.1016/j.jclepro.2024.143442)
+[The coordinated development among economy, society, energy, and environment and their impacts on public health in China's cities](https://www.sciencedirect.com/science/article/abs/pii/S0959652624028919)
 
 **Cheng Zhang**, Meiyu Jiang, Fujie Yang, Yuehan Wang, Yaxin Xu, Sihan Lin, Li Li, Yalin Lei, Sanmang Wu, Jiao Wang
 
-[**Project**](https://doi.org/10.1016/j.jclepro.2024.143442) | <strong>SCI Journal Paper</strong> (CAS Q1, IF=9.7)
+[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S0959652624028919) | <strong>SCI Journal Paper</strong> (CAS Q1, IF=9.7)
 - Journal of Cleaner Production, Volume 472, 2024, doi: 10.1016/j.jclepro.2024.143442.
 </div>
 </div>
