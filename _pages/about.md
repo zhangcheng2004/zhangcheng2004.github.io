@@ -100,10 +100,9 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 - *2021-2022* Professional first-class scholarship (twice) (Top 5%)
 
 # 📖 Educations
-- *2021.09 - 2025.06 (now)*, Bachelor of Economics, China University of Geosciences Beijing, China
-
-Supervised by Prof. Li Li
-
+- *2021.09 - 2025.06*, Bachelor of Economics, China University of Geosciences Beijing, China, Supervised by Prof. Li Li
+- *2025.09 - 2028.06*, Master of Laws, Xiamen University
+- 
 # 💻 Internships
 - 🎓During My Undergraduate Program
 
