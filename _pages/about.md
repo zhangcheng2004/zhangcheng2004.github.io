@@ -30,6 +30,7 @@ I hope this helps you better understand my background and research directions.
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 Awarded the **National Scholarship for Undergraduates** (TOP 0.2%).
 - *2024.09*: &nbsp;🎉🎉 Admitted to **Xiamen University** for pursuing a master's degree.
 - *2024.08*: &nbsp;🎉🎉 New Paper Accepted by **Sustainable Futures** (IF=3.3). 
 - *2024.08*: &nbsp;🎉🎉 New Paper Accepted by **Journal of Cleaner Production** (IF=9.7).
@@ -94,6 +95,7 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 </div>
 -->
 # 🎖 Honors and Awards
+- *2024.10* National Scholarship for Undergraduates (Top 0.2%)
 - *2023.09* Merit student (Top 5%)
 - *2022.09* Outstanding student leader (Top 5%)
 - *2023.12* Love at the Cabbage Hundred • Golden Future Scholarship (Top 5%)
