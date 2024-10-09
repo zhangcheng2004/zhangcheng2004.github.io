@@ -115,6 +115,6 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 
 - **Business Data Analytics and AI Engineer**
 - Advised by Ms. Han Zhou
-- Jul. 2024 - Nov. 2024
+- Jul. 2024 - Dec. 2024
 </div>
 </div>
