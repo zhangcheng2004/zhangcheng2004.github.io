@@ -30,8 +30,9 @@ I hope this helps you better understand my background and research directions.
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 Awarded the **First-Class Professional Scholarship** (TOP 5%).
 - *2024.10*: &nbsp;🎉🎉 Awarded the **National Scholarship for Undergraduates** (TOP 0.2%).
-- *2024.09*: &nbsp;🎉🎉 Admitted to **Xiamen University** for pursuing a master's degree.
+- *2024.09*: &nbsp;🎉🎉 Admitted to **Xiamen University** for Pursuing a Master's Degree.
 - *2024.08*: &nbsp;🎉🎉 New Paper Accepted by **Sustainable Futures** (IF=3.3). 
 - *2024.08*: &nbsp;🎉🎉 New Paper Accepted by **Journal of Cleaner Production** (IF=9.7).
 - *2024.06*: &nbsp;🎉🎉 New Paper Accepted by **Science of The Total Environment** (IF=8.2).
@@ -99,7 +100,7 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 - *2023.09* Merit student (Top 5%)
 - *2022.09* Outstanding student leader (Top 5%)
 - *2023.12* Love at the Cabbage Hundred • Golden Future Scholarship (Top 5%)
-- *2021-2022* Professional first-class scholarship (twice) (Top 5%)
+- *2021-2024* Professional first-class scholarship (three times) (Top 5%)
 
 # 📖 Educations
 - *2021.09 - 2025.06*, Bachelor of Economics, China University of Geosciences Beijing, China, Supervised by Prof. Li Li
