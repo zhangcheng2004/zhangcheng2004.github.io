@@ -106,6 +106,9 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 - *2021.09 - 2025.06*, Bachelor of Economics, China University of Geosciences Beijing, China, Supervised by Prof. Li Li
 - *2025.09 - 2028.06*, Master of Laws, Xiamen University
 
+# 💬 Invited Talks
+- *2024.10*, CUGB School of Economics and Management wechat public account, [special report](https://mp.weixin.qq.com/s/KvCJS7LLfG1tSzkGELhFOw). 
+
 # 💻 Internships
 - 🎓During My Undergraduate Program
 
