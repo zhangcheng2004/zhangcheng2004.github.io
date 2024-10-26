@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Cheng Zhang Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -104,7 +104,7 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 
 # 📖 Educations
 - *2021.09 - 2025.06*, Bachelor of Economics, China University of Geosciences Beijing, China, Supervised by Prof. Li Li
-- *2025.09 - 2028.06*, Master of Laws, Xiamen University
+- *2025.09 - 2028.06*, Master of Laws, Xiamen University, Supervised by Prof. Yanhui Xu
 
 # 💬 Invited Talks
 - *2024.10*, CUGB School of Economics and Management wechat public account, [special report](https://mp.weixin.qq.com/s/KvCJS7LLfG1tSzkGELhFOw). 
@@ -115,10 +115,10 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAL</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-*2024.07 - now*, [TAL Education Group](https://www.100tal.com/), China.
+*2024.07 - 2024.11*, [TAL Education Group](https://www.100tal.com/), China.
 
 - **Business Data Analytics and AI Engineer**
 - Advised by Ms. Han Zhou
-- Jul. 2024 - Dec. 2024
+- Jul. 2024 - Nov. 2024
 </div>
 </div>
