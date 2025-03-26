@@ -22,7 +22,7 @@ I am now a senior student at [China University of Geosciences (Beijing)](www.cug
 
 From July 2024 to November 2024, I served as an LBS channel operations intern at [TAL Education Group](https://www.100tal.com/) in Beijing, where I was responsible for business data analysis and AI-related tasks under the supervision of Ms. Han Zhou.
 
-Starting in February 2025, I have been working as a commercial industry operations intern at [Kuaishou Advertising Co., Ltd.](https://www.kuaishou.com/new-reco), focusing on the analysis of commercial advertising data under the guidance of Ms. Chen Huarui.
+Starting in February 2025, I have been working as a commercial industry operations intern at [Kuaishou Advertising Co., Ltd.](https://www.kuaishou.com/new-reco), focusing on the analysis of commercial advertising data under the guidance of Ms. Huarui Chen.
 
 My research interests encompass energy economics, environmental economics, socio-economic sociology, and machine learning. Currently, I am deeply engaged in specific projects related to new productive forces for my undergraduate thesis research.
 
@@ -121,5 +121,16 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 - **Business Data Analytics and AI Engineer**
 - Advised by Ms. Han Zhou
 - Jul. 2024 - Nov. 2024
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAL</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+*2025.02 - 2025.06*, [Kuaishou Advertising Co., Ltd.](https://www.kuaishou.com/new-reco), China.
+
+- **Commercial Industry Operations**
+- Advised by Ms. Huarui Chen
+- Feb. 2025 - Jul. 2025
 </div>
 </div>
