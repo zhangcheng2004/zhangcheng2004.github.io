@@ -18,16 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now a senior student at [China University of Geosciences (Beijing)](www.cugb.edu.cn). Fortunately, I am under the guidance of Prof. [Li Li](https://scholar.cugb.edu.cn/scholar/scholarDetail/620.shtml) from the School of Economics and Management. During my junior year, I published three SCI papers.
+I am now a senior student at [China University of Geosciences (Beijing)](www.cugb.edu.cn). Fortunately, I have been mentored by Prof. [Li Li](https://scholar.cugb.edu.cn/scholar/scholarDetail/620.shtml) from the School of Economics and Management, who has guided me in conducting extensive research in the field of energy economics.
 
-Since July 2024, I have been working as a daily intern at [TAL Education Group](https://www.100tal.com/) in Beijing, responsible for business data analysis and AI-related tasks, under the supervision of Ms. Han Zhou.
+From July 2024 to November 2024, I served as an LBS channel operations intern at [TAL Education Group](https://www.100tal.com/) in Beijing, where I was responsible for business data analysis and AI-related tasks under the supervision of Ms. Han Zhou.
 
-My research interests include energy economics, environmental economics, and machine learning. **Presently, I am deeply involved in specific projects related to new productive forces for my undergraduate thesis research**.
+Starting in February 2025, I have been working as a commercial industry operations intern at [Kuaishou Advertising Co., Ltd.](https://www.kuaishou.com/new-reco), focusing on the analysis of commercial advertising data under the guidance of Ms. Chen Huarui.
 
-You can find my resume here: [Cheng Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:zorange411@gmail.com).
+My research interests encompass energy economics, environmental economics, socio-economic sociology, and machine learning. Currently, I am deeply engaged in specific projects related to new productive forces for my undergraduate thesis research.
 
-I hope this helps you better understand my background and research directions.
+You can find my resume here: [Cheng Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to contact me via [email](mailto:zorange411@gmail.com).
 
+I hope this information provides you with a comprehensive understanding of my academic background and research directions.
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 Awarded the **First-Class Professional Scholarship** (TOP 5%).
