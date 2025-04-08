@@ -18,5 +18,8 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
+  - title: "Thought Record"
+    url: "/#-thought-record"
+    
   - title: "Internships"
     url: "/#-internships"
