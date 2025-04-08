@@ -111,7 +111,7 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 - *2024.10*, CUGB School of Economics and Management wechat public account, [special report](https://mp.weixin.qq.com/s/KvCJS7LLfG1tSzkGELhFOw). 
 
 # 💡 Thought Record
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science of The Total Environment</div><img src='../images/record1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ZhiHu</div><img src='../images/record1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - *2025.04*, ["The Financial Engineering of Time Management: A Procrastinator's Theoretical Reconstruction—An Interdisciplinary Dialogue on QE, QT, and the Debt of Life"](https://zhuanlan.zhihu.com/p/1892310880248640651).
