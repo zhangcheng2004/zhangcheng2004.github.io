@@ -31,7 +31,6 @@ You can find my resume here: [Cheng Zhang's Curriculum Vitae](../assets/Curricul
 I hope this information provides you with a comprehensive understanding of my academic background and research directions.
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Awarded the **First-Class Professional Scholarship** (TOP 5%).
 - *2024.10*: &nbsp;🎉🎉 Awarded the **National Scholarship for Undergraduates** (TOP 0.2%).
 - *2024.09*: &nbsp;🎉🎉 Admitted to **Xiamen University** for Pursuing a Master's Degree.
 - *2024.08*: &nbsp;🎉🎉 New Paper Accepted by **Sustainable Futures** (IF=3.3). 
