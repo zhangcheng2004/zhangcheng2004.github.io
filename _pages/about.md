@@ -99,8 +99,6 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 - *2024.10* National Scholarship for Undergraduates (Top 0.2%)
 - *2023.09* Merit student (Top 5%)
 - *2022.09* Outstanding student leader (Top 5%)
-- *2023.12* Love at the Cabbage Hundred • Golden Future Scholarship (Top 5%)
-- *2021-2024* Professional first-class scholarship (three times) (Top 5%)
 
 # 📖 Educations
 - *2021.09 - 2025.06*, Bachelor of Economics, China University of Geosciences Beijing, China, Supervised by Prof. Li Li
