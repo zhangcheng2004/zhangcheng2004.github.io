@@ -133,7 +133,7 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Kuaishou</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-*2025.02 - 2025.06*, [Kuaishou Advertising Co., Ltd.](https://www.kuaishou.com/new-reco), China.
+*2025.02 - 2025.08*, [Kuaishou Advertising Co., Ltd.](https://www.kuaishou.com/new-reco), China.
 
 - **Commercial Industry Operations**
 - Advised by Ms. Huarui Chen
