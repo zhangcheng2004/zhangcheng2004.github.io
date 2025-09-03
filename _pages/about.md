@@ -29,6 +29,12 @@ My research interests encompass energy economics, environmental economics, socio
 You can find my resume here: [Cheng Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). If you are interested in my work, please feel free to contact me via [email](mailto:zorange411@gmail.com).
 
 I hope this information provides you with a comprehensive understanding of my academic background and research directions.
+我现为[厦门大学社会学](https://ssa.xmu.edu.cn/)研一学生。本科毕业于[中国地质大学（北京）经济学](https://sem.cugb.edu.cn/)专业，有幸师从[李莉教授](https://scholar.cugb.edu.cn/scholar/scholarDetail/620.shtml) ，在能源经济学领域开展了多项研究工作。我的研究兴趣涵盖能源经济学、环境经济学、社会经济社会学及机器学习等领域，目前正聚焦新质生产力相关专项课题。
+
+2024年7月至11月期间，我在[好未来教育集团](https://www.100tal.com/)担任LBS渠道运营实习生，在周函老师的指导下负责业务数据分析及人工智能相关任务。
+2025年2月至8月期间，我在[快手](https://www.kuaishou.com/new-reco)担任商业化行业运营实习生，在于宸老师、张磊老师的指导下专注于商业广告数据分析。
+
+如果您对我的研究工作感兴趣，欢迎通过[邮箱](mailto:zorange411@gmail.com)与我联系。希望以上介绍能帮助您更好地了解我的学术背景与研究方向。
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 Awarded the **National Scholarship for Undergraduates** (TOP 0.2%).
