@@ -101,7 +101,7 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 </div>
 </div>
 
-# 💻 实习
+# 💻 实习经历
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">好未来</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -130,7 +130,7 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 </div>
 </div>
 
-# 🎖️ 竞赛
+# 🎖️ 竞赛获奖
 1.美国大学生数学建模竞赛Honorable Mention两次-作品1、作品2	 第一负责人，国家级
 
 2.iCAN大学生创新创业大赛“商道杯”管理决策模拟挑战赛全国三等奖	 第一负责人，国家级
