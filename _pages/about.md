@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Welcome! 
+# 欢迎! 
 我现为[厦门大学社会学](https://ssa.xmu.edu.cn/)研一学生。本科毕业于[中国地质大学（北京）经济学](https://sem.cugb.edu.cn/)专业，有幸师从[李莉教授](https://scholar.cugb.edu.cn/scholar/scholarDetail/620.shtml) ，在能源经济学领域开展了多项研究工作。我的研究兴趣涵盖能源经济学、环境经济学、社会经济社会学及机器学习等领域，目前正聚焦新质生产力相关专项课题。
 
 2024年7月至11月期间，我在[好未来教育集团](https://www.100tal.com/)担任LBS渠道运营实习生，在周函老师的指导下负责业务数据分析及人工智能相关任务。
@@ -25,7 +25,7 @@ redirect_from:
 
 如果您对我的研究工作感兴趣，欢迎通过[邮箱](mailto:zorange411@gmail.com)与我联系。希望以上介绍能帮助您更好地了解我的学术背景与研究方向。
 
-# 🔥 News
+# 🔥 近期动态
 - *2025.05*: &nbsp;🎉🎉 新的思考["时间管理的金融工程学：一个拖延者的理论重构——关于QE、QT与人生债务的跨学科对话"](https://zhuanlan.zhihu.com/p/1892310880248640651).
 - *2024.10*: &nbsp;🎉🎉 获得本科生**国家奖学金** (TOP 0.2%).
 - *2024.09*: &nbsp;🎉🎉 保研至**厦门大学**攻读硕士学位.
@@ -33,12 +33,11 @@ redirect_from:
 - *2024.08*: &nbsp;🎉🎉 学术论文发表于 **Journal of Cleaner Production** (第一作者，中科院一区TOP，IF=9.7).
 - *2024.06*: &nbsp;🎉🎉 学术论文发表于 **Science of The Total Environment** (第三作者，中科院一区TOP，IF=8.2).
 
-# 📖 Educations
+# 📖 教育经历
 - *2021.09 - 2025.06*, 中国地质大学（北京），经济学学士学位，导师：李莉教授
 - *2025.09 - 2028.06*, 厦门大学，法学硕士学位，导师：徐延辉教授
 
-# 📝 Publications 
-- 🎓本科阶段
+# 📝 学术论文与个人博客
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Cleaner Production</div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -106,7 +105,7 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 </div>
 </div>
 
-# 💻 Internships
+# 💻 实习
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">好未来</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -127,10 +126,17 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 *2025.02 - 2025.08*, [快手](https://www.kuaishou.com/new-reco), China.
 
 - **商业化行业运营**
-- 导师/上级：于宸老师
+- 导师/上级：于宸老师、张磊老师
 - 日常数据运营(40%)：围绕商业化广告业务，基于快手天玑、KwaiBI平台，独立编写SQL、制作看板，开展日报、周报、对外双周报等数据的提取统计、处理分析、可视化、结论展示，定期输出报告
 - 项目制数据分析(40%)：支持业务数据分析工作，采集数据并进行加工分析、归纳整理，产出业务分析与建议
 - 行业运营(20%)：辅助完成商业化运营工作，主动发现业务问题，提报并追踪工单，推动多方解决客户问题
 - AI产品(10%)：基于Luigi搭建工作流，对通信行业的广告组H5落地页与视频素材进行打标分类
 </div>
 </div>
+
+# 🎖️ 竞赛
+1.美国大学生数学建模竞赛Honorable Mention两次-作品1、作品2	 第一负责人，国家级
+2.iCAN大学生创新创业大赛“商道杯”管理决策模拟挑战赛全国三等奖	 第一负责人，国家级
+3.高教社杯全国大学生数学建模竞赛北京市一等奖-作品	 第一负责人，省部级
+4.“学创杯”全国大学生创业综合模拟比赛北京市二等奖	 第一负责人，省部级
+5.蓝桥杯全国软件和信息技术专业人才大赛C++程序设计北京市三等奖	   个人参赛，省部级
