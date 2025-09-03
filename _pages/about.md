@@ -26,11 +26,16 @@ redirect_from:
 如果您对我的研究工作感兴趣，欢迎通过[邮箱](mailto:zorange411@gmail.com)与我联系。希望以上介绍能帮助您更好地了解我的学术背景与研究方向。
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 新的思考["时间管理的金融工程学：一个拖延者的理论重构——关于QE、QT与人生债务的跨学科对话"](https://zhuanlan.zhihu.com/p/1892310880248640651).
 - *2024.10*: &nbsp;🎉🎉 获得本科生**国家奖学金** (TOP 0.2%).
 - *2024.09*: &nbsp;🎉🎉 保研至**厦门大学**攻读硕士学位.
 - *2024.08*: &nbsp;🎉🎉 学术论文发表于 **Sustainable Futures** (第一作者，中科院二区，IF=3.3). 
 - *2024.08*: &nbsp;🎉🎉 学术论文发表于 **Journal of Cleaner Production** (第一作者，中科院一区TOP，IF=9.7).
 - *2024.06*: &nbsp;🎉🎉 学术论文发表于 **Science of The Total Environment** (第三作者，中科院一区TOP，IF=8.2).
+
+# 📖 Educations
+- *2021.09 - 2025.06*, 中国地质大学（北京），经济学学士学位，导师：李莉教授
+- *2025.09 - 2028.06*, 厦门大学，法学硕士学位，导师：徐延辉教授
 
 # 📝 Publications 
 - 🎓本科阶段
@@ -41,7 +46,7 @@ redirect_from:
 
 **Cheng Zhang**, Meiyu Jiang, Fujie Yang, Yuehan Wang, Yaxin Xu, Sihan Lin, Li Li, Yalin Lei, Sanmang Wu, Jiao Wang
 
-[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S0959652624028919?via%3Dihub=) | <strong>SCI Journal Paper</strong> (CAS Q1, IF=9.7)
+[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S0959652624028919?via%3Dihub=) | <strong>SCI Journal Paper</strong> (第一作者，中科院一区TOP, IF=9.7)
 - Journal of Cleaner Production, Volume 472, 2024, doi: 10.1016/j.jclepro.2024.143442.
 </div>
 </div>
@@ -60,7 +65,7 @@ redirect_from:
 
 **Cheng Zhang**, Yirui Zhang, Hua Zhang, Jiaying You, Xinke Lv, Xinyu Cheng
 
-[**Project**](https://www.sciencedirect.com/science/article/pii/S2666188824001370#abs0001) | <strong>SCI Journal Paper</strong> (CAS Q2, IF=3.3)
+[**Project**](https://www.sciencedirect.com/science/article/pii/S2666188824001370#abs0001) | <strong>SCI Journal Paper</strong> (第一作者，中科院二区, IF=3.3)
 - Sustainable Futures, Volume 8, 2024, doi: 10.1016/j.sftr.2024.100288.
 </div>
 </div>
@@ -79,7 +84,7 @@ redirect_from:
 
 Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, Xin Zhang
 
-[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S0048969724039251#preview-section-references) | <strong>SCI Journal Paper</strong> (CAS Q1, IF=8.2)
+[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S0048969724039251#preview-section-references) | <strong>SCI Journal Paper</strong> (第三作者，中科院一区TOP, IF=8.2)
 - Science of The Total Environment, Volume 945, 2024, doi: 10.1016/j.scitotenv.2024.173778.
 </div>
 </div>
@@ -91,25 +96,19 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 </div>
 -->
 
-# 📖 Educations
-- *2021.09 - 2025.06*, 中国地质大学（北京），经济学学士学位，导师：李莉教授
-- *2025.09 - 2028.06*, 厦门大学，法学硕士学位，导师：徐延辉教授
-
-# 💬 Invited Talks
-- *2024.10*, CUGB School of Economics and Management wechat public account, [special report](https://mp.weixin.qq.com/s/KvCJS7LLfG1tSzkGELhFOw). 
-
-# 💡 Thought Record
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ZhiHu</div><img src='../images/record1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">知乎</div><img src='../images/record1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ["时间管理的金融工程学：一个拖延者的理论重构——关于QE、QT与人生债务的跨学科对话"](https://zhuanlan.zhihu.com/p/1892310880248640651).
-2025.04
+
+张丞，DeepSeek
+- 2025.04
 </div>
 </div>
 
 # 💻 Internships
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAL</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">好未来</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 *2024.07 - 2024.11*, [好未来教育集团](https://www.100tal.com/), 北京.
@@ -122,7 +121,7 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Kuaishou</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">快手</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 *2025.02 - 2025.08*, [快手](https://www.kuaishou.com/new-reco), China.
