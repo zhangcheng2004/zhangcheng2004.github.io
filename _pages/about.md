@@ -101,10 +101,9 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 
 - **商业化行业运营**
 - mt/ld：于宸老师、张磊老师
-- 日常数据运营(40%)：围绕商业化广告业务，基于快手天玑、KwaiBI平台，独立编写SQL、制作看板，开展日报、周报、[对外双周报](https://docs.qingque.cn/d/home/eZQB2WZr3Teq6qfvxxOXPBXEm?identityId=2FbI2dajR7T#section=h.5i0qm9u1c429)等数据的提取统计、处理分析、可视化、结论展示，定期输出报告
-- 项目制数据分析(30%)：支持业务数据分析工作，采集数据并进行加工分析、归纳整理，产出业务分析与建议
-- 行业运营(20%)：辅助完成商业化运营工作，主动发现业务问题，提报并追踪工单，推动多方解决客户问题
-- AI产品(10%)：基于Luigi搭建工作流，对通信行业的广告组H5落地页与视频素材进行打标分类
+- 日常数据运营(30%)：基于KwaiBI平台，独立编写SQL、制作并定期优化看板，从客户×产品×点位的纬度进行消耗、出价、基建、超成本率的监控；开展日报、周报、[对外双周报](https://docs.qingque.cn/d/home/eZQB2WZr3Teq6qfvxxOXPBXEm?identityId=2FbI2dajR7T#section=h.5i0qm9u1c429)等数据的提取统计、处理分析、可视化
+- 行业运营(50%)：从点位×矩阵×内容×定向×模型5个方面入手，对广告主的投放效果进行诊断，主动发现业务问题，提报并追踪工单，并推动多方解决，产出业务分析与建议
+- AI产品(20%)：运用Luigi搭建工作流，对广告组H5落地页进行打标分类，每周节约4小时
 </div>
 </div>
 # 🎖️ 竞赛获奖
