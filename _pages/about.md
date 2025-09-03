@@ -18,12 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 欢迎! 
-我现为[厦门大学社会学](https://ssa.xmu.edu.cn/)研一学生。本科毕业于[中国地质大学（北京）经济学](https://sem.cugb.edu.cn/)专业，有幸师从[李莉教授](https://scholar.cugb.edu.cn/scholar/scholarDetail/620.shtml) ，在能源经济学领域开展了多项研究工作。我的研究兴趣涵盖能源经济学、环境经济学、社会经济社会学及机器学习等领域，目前正聚焦新质生产力相关专项课题。
-
-2024年7月至11月期间，我在[好未来教育集团](https://www.100tal.com/)担任LBS渠道运营实习生，在周函老师的指导下负责业务数据分析及人工智能相关任务。
-2025年2月至8月期间，我在[快手](https://www.kuaishou.com/new-reco)担任商业化行业运营实习生，在于宸老师、张磊老师的指导下专注于商业广告数据分析。
-
-如果您对我的研究工作感兴趣，欢迎通过[邮箱](mailto:zorange411@gmail.com)与我联系。希望以上介绍能帮助您更好地了解我的学术背景与研究方向。
+> 我现为[厦门大学社会学](https://ssa.xmu.edu.cn/)研一学生。本科毕业于[中国地质大学（北京）经济学](https://sem.cugb.edu.cn/)专业，有幸师从[李莉教授](https://scholar.cugb.edu.cn/scholar/scholarDetail/620.shtml) ，在能源经济学领域开展了多项研究工作。我的研究兴趣涵盖能源经济学、环境经济学、社会经济社会学及机器学习等领域，目前正聚焦新质生产力相关专项课题。
+> 
+> 2024年7月至11月期间，我在[好未来教育集团](https://www.100tal.com/)担任LBS渠道运营实习生，在周函老师的指导下负责业务数据分析及人工智能相关任务。
+> 2025年2月至8月期间，我在[快手](https://www.kuaishou.com/new-reco)担任商业化行业运营实习生，在于宸老师、张磊老师的指导下专注于商业广告数据分析。
+> 
+> 如果您对我的研究工作感兴趣，欢迎通过[邮箱](mailto:zorange411@gmail.com)与我联系。希望以上介绍能帮助您更好地了解我的学术背景与研究方向。
 
 # 🔥 近期动态
 - *2025.05*: &nbsp;💡 新的思考["时间管理的金融工程学：一个拖延者的理论重构——关于QE、QT与人生债务的跨学科对话"](https://zhuanlan.zhihu.com/p/1892310880248640651).
@@ -49,13 +49,6 @@ redirect_from:
 </div>
 </div>
 
-<!--
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
--->
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Futures</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -66,13 +59,6 @@ redirect_from:
 [**Project**](https://www.sciencedirect.com/science/article/pii/S2666188824001370#abs0001) | Sustainable Futures, Volume 8, 2024, doi: 10.1016/j.sftr.2024.100288.(第一作者，中科院二区, IF=3.3)
 </div>
 </div>
-
-<!--
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
--->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science of The Total Environment</div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -85,13 +71,6 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 </div>
 </div>
 
-<!--
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
--->
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">知乎</div><img src='../images/record1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -100,7 +79,6 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 张丞，DeepSeek2025.04
 </div>
 </div>
-
 # 💻 实习经历
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">好未来</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
@@ -129,7 +107,6 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 - AI产品(10%)：基于Luigi搭建工作流，对通信行业的广告组H5落地页与视频素材进行打标分类
 </div>
 </div>
-
 # 🎖️ 竞赛获奖
 1.美国大学生数学建模竞赛Honorable Mention两次-作品1、作品2	 第一负责人，国家级
 
