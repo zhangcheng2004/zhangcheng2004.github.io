@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "张丞"
-description              : "一个普通人"
+description              : "去发光吧"
 repository               : "zhangcheng2004.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "张丞"
   avatar           : "images/profile.png"
   bio              : "厦门大学"
-  location         : "厦门"
+  location         : "厦门市思明区"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zorange411@gmail.com"
