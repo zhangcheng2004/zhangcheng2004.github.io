@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "欢迎！"
-    url: "/#-欢迎！"
+  - title: "欢迎!"
+    url: "/#-欢迎!"
 
   - title: "近期动态"
     url: "/#-近期动态"
@@ -15,5 +15,5 @@ main:
   - title: "实习经历"
     url: "/#-实习经历"
 
-  - title: "竞赛获奖"
-    url: "/#-竞赛获奖"
+  - title: "项目经历"
+    url: "/#-项目经历"
