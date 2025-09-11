@@ -26,12 +26,13 @@ redirect_from:
 > 如果您对我的研究工作感兴趣，欢迎通过[邮箱](mailto:zorange411@gmail.com)与我联系。希望以上介绍能帮助您更好地了解我的学术背景与研究方向。
 
 # 🔥 近期动态
+- *2025.09*：&nbsp;🎉 学术论文发表于**Humanities and Social Sciences Communications** (第二作者，中科院二区，IF=3.6).
 - *2025.05*: &nbsp;💡 新的思考["时间管理的金融工程学：一个拖延者的理论重构——关于QE、QT与人生债务的跨学科对话"](https://zhuanlan.zhihu.com/p/1892310880248640651).
 - *2024.10*: &nbsp;🎖️ 获得本科生**国家奖学金** (TOP 0.2%).
 - *2024.09*: &nbsp;📖 保研至**厦门大学**攻读硕士学位.
-- *2024.08*: &nbsp;🎉 学术论文发表于 **Sustainable Futures** (第一作者，中科院二区，IF=3.3). 
-- *2024.08*: &nbsp;🎉 学术论文发表于 **Journal of Cleaner Production** (第一作者，中科院一区TOP，IF=9.7).
-- *2024.06*: &nbsp;🎉 学术论文发表于 **Science of The Total Environment** (第三作者，中科院一区TOP，IF=8.2).
+- *2024.08*: &nbsp;🎉 学术论文发表于 **Sustainable Futures** (第一作者，中科院二区，IF=4.9). 
+- *2024.08*: &nbsp;🎉 学术论文发表于 **Journal of Cleaner Production** (第一作者，中科院一区TOP，IF=10.0).
+- *2024.06*: &nbsp;🎉 学术论文发表于 **Science of The Total Environment** (第三作者，中科院一区TOP，IF=8.0).
 
 # 📖 教育经历
 - *2021.09 - 2025.06*, 中国地质大学（北京），经济学学士学位，导师：李莉教授
@@ -45,7 +46,7 @@ redirect_from:
 
 **Cheng Zhang**, Meiyu Jiang, Fujie Yang, Yuehan Wang, Yaxin Xu, Sihan Lin, Li Li, Yalin Lei, Sanmang Wu, Jiao Wang
 
-[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S0959652624028919?via%3Dihub=) | Journal of Cleaner Production, Volume 472, 2024, doi: 10.1016/j.jclepro.2024.143442.(第一作者，中科院一区TOP, IF=9.7)
+[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S0959652624028919?via%3Dihub=) | Journal of Cleaner Production, Volume 472, 2024, doi: 10.1016/j.jclepro.2024.143442.(第一作者，中科院一区TOP, IF=10.0)
 </div>
 </div>
 
@@ -56,7 +57,7 @@ redirect_from:
 
 **Cheng Zhang**, Yirui Zhang, Hua Zhang, Jiaying You, Xinke Lv, Xinyu Cheng
 
-[**Project**](https://www.sciencedirect.com/science/article/pii/S2666188824001370#abs0001) | Sustainable Futures, Volume 8, 2024, doi: 10.1016/j.sftr.2024.100288.(第一作者，中科院二区, IF=3.3)
+[**Project**](https://www.sciencedirect.com/science/article/pii/S2666188824001370#abs0001) | Sustainable Futures, Volume 8, 2024, doi: 10.1016/j.sftr.2024.100288.(第一作者，中科院二区, IF=4.9)
 </div>
 </div>
 
@@ -67,7 +68,7 @@ redirect_from:
 
 Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, Xin Zhang
 
-[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S0048969724039251#preview-section-references) | Science of The Total Environment, Volume 945, 2024, doi: 10.1016/j.scitotenv.2024.173778. (第三作者，中科院一区TOP, IF=8.2)
+[**Project**](https://www.sciencedirect.com/science/article/abs/pii/S0048969724039251#preview-section-references) | Science of The Total Environment, Volume 945, 2024, doi: 10.1016/j.scitotenv.2024.173778. (第三作者，中科院一区TOP, IF=8.0)
 </div>
 </div>
 
