@@ -26,7 +26,7 @@ redirect_from:
 > 如果您对我的研究工作感兴趣，欢迎通过[邮箱](mailto:zorange411@gmail.com)与我联系。希望以上介绍能帮助您更好地了解我的学术背景与研究方向。
 
 # 🔥 近期动态
-- *2025.09*：&nbsp;🎉 新项目[《我在人海，打捞一百个故事》](https://www.xiaohongshu.com/discovery/item/68da1be9000000001201dc9a?source=webshare&xhsshare=pc_web&xsec_token=ABgJCDCD9AltTgJKf-AJywUkvGNeirUbVUT4hY8BMjDXI=&xsec_source=pc_share)立项（推进中，欢迎报名）.
+- *2025.09*：&nbsp;🎉 新项目[《我在人海，打捞一百个故事》](https://www.xiaohongshu.com/discovery/item/68da1be9000000001201dc9a?source=webshare&xhsshare=pc_web&xsec_token=ABgJCDCD9AltTgJKf-AJywUkvGNeirUbVUT4hY8BMjDXI=&xsec_source=pc_share)立项（筹备、推进中，欢迎报名）.
 - *2025.09*：&nbsp;🎉 学术论文发表于**Environment, Development and Sustainability** (第一作者+通讯作者，JCR二区，IF=4.2).
 - *2025.09*：&nbsp;🎉 学术论文发表于**Humanities and Social Sciences Communications** (第二作者，中科院二区，IF=3.6).
 - *2025.05*: &nbsp;💡 新的思考["时间管理的金融工程学：一个拖延者的理论重构——关于QE、QT与人生债务的跨学科对话"](https://zhuanlan.zhihu.com/p/1892310880248640651).
