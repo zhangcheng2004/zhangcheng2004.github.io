@@ -26,9 +26,9 @@ redirect_from:
 > 如果您对我的研究工作感兴趣，欢迎通过[邮箱](mailto:zorange411@gmail.com)与我联系。希望以上介绍能帮助您更好地了解我的学术背景与研究方向。
 
 # 🔥 近期动态
-- *2025.09*：&nbsp;🎉 新项目[《我在人海，打捞一百个故事》](https://www.xiaohongshu.com/discovery/item/68da1be9000000001201dc9a?source=webshare&xhsshare=pc_web&xsec_token=ABgJCDCD9AltTgJKf-AJywUkvGNeirUbVUT4hY8BMjDXI=&xsec_source=pc_share)立项（筹备、推进中，欢迎报名）.
+- *2025.09*：&nbsp;🎉 新项目[《100次随机抽样》](https://www.xiaohongshu.com/discovery/item/68da1be9000000001201dc9a?source=webshare&xhsshare=pc_web&xsec_token=ABgJCDCD9AltTgJKf-AJywUkvGNeirUbVUT4hY8BMjDXI=&xsec_source=pc_share)立项（筹备、推进中，欢迎报名）.
 - *2025.09*：&nbsp;🎉 学术论文发表于**Environment, Development and Sustainability** (第一作者+通讯作者，JCR二区，IF=4.2).
-- *2025.09*：&nbsp;🎉 学术论文发表于**Humanities and Social Sciences Communications** (第二作者，中科院二区，IF=3.6).
+- *2025.09*：&nbsp;🎉 学术论文发表于**西安科技大学学报** (合作作者，北大中文核心).
 - *2025.05*: &nbsp;💡 新的思考["时间管理的金融工程学：一个拖延者的理论重构——关于QE、QT与人生债务的跨学科对话"](https://zhuanlan.zhihu.com/p/1892310880248640651).
 - *2024.10*: &nbsp;🎖️ 获得本科生**国家奖学金** (TOP 0.2%).
 - *2024.09*: &nbsp;📖 保研至**厦门大学**攻读硕士学位.
@@ -66,6 +66,17 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science of The Total Environment</div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[How new quality productive forces influenced the Urban-Rural income gap: evidence from prefectural cities in China](https://link.springer.com/article/10.1007/s10668-025-06929-3)
+
+**Cheng Zhang**, Jiayi Hu, Chenlin Song, Yutao Lu 
+
+[**Project**](https://link.springer.com/article/10.1007/s10668-025-06929-3) | Environment, Development and Sustainability, 2025, doi: 10.1007/s10668-025-06929-3.(第一作者&通讯作者，JCR二区, IF=4.2)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environment, Development and Sustainability</div><img src='../images/paper4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [Spatio-temporal differentiation characteristics and the influencing factors of PM2.5 emissions from coal consumption in Central Plains Urban Agglomeration](https://www.sciencedirect.com/science/article/abs/pii/S0048969724039251#preview-section-references)
 
 Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, Xin Zhang
