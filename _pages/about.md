@@ -85,7 +85,7 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">西安科技大学学报</div><img src='../images/paper5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">西安科技大学学报</div><img src='../images/paper5.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [氧通量对新疆苇湖梁煤燃烧过程及其判定指标的影响](https://kns.cnki.net/kcms2/article/abstract?v=krTYG2tdvzpMC4vVi_woNCQdNE4dLJceqEBGwZz9qTlBH6hLL0ciOh1iWixTEpJ8lCDuxb4aaiewpvEkUtC9ghF14KbMkRJ9As-LOW6gqvq2FLx83nqG6hWbsOdClVA5TyzEuOrY_cnb_kyuHbYCJnmGSS1fFA-QcpXJg0HFr98=&uniplatform=NZKPT)
