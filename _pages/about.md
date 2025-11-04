@@ -63,7 +63,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science of The Total Environment</div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environment, Development and Sustainability</div><img src='../images/paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [How new quality productive forces influenced the Urban-Rural income gap: evidence from prefectural cities in China](https://link.springer.com/article/10.1007/s10668-025-06929-3)
@@ -74,7 +74,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environment, Development and Sustainability</div><img src='../images/paper4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science of The Total Environment</div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Spatio-temporal differentiation characteristics and the influencing factors of PM2.5 emissions from coal consumption in Central Plains Urban Agglomeration](https://www.sciencedirect.com/science/article/abs/pii/S0048969724039251#preview-section-references)
@@ -82,6 +82,17 @@ redirect_from:
 Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, Xin Zhang
 
 [**Project**](https://www.sciencedirect.com/science/article/abs/pii/S0048969724039251#preview-section-references) | Science of The Total Environment, Volume 945, 2024, doi: 10.1016/j.scitotenv.2024.173778. (第三作者，中科院一区TOP, IF=8.0)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">西安科技大学学报</div><img src='../images/paper5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[氧通量对新疆苇湖梁煤燃烧过程及其判定指标的影响](https://kns.cnki.net/kcms2/article/abstract?v=krTYG2tdvzpMC4vVi_woNCQdNE4dLJceqEBGwZz9qTlBH6hLL0ciOh1iWixTEpJ8lCDuxb4aaiewpvEkUtC9ghF14KbMkRJ9As-LOW6gqvq2FLx83nqG6hWbsOdClVA5TyzEuOrY_cnb_kyuHbYCJnmGSS1fFA-QcpXJg0HFr98=&uniplatform=NZKPT)
+
+卢宇涛, 张国强, 张飞, **张丞**, 苏贺涛, 胡佳怡
+
+[**Project**]([https://www.sciencedirect.com/science/article/abs/pii/S0048969724039251#preview-section-references](https://kns.cnki.net/kcms2/article/abstract?v=krTYG2tdvzpMC4vVi_woNCQdNE4dLJceqEBGwZz9qTlBH6hLL0ciOh1iWixTEpJ8lCDuxb4aaiewpvEkUtC9ghF14KbMkRJ9As-LOW6gqvq2FLx83nqG6hWbsOdClVA5TyzEuOrY_cnb_kyuHbYCJnmGSS1fFA-QcpXJg0HFr98=&uniplatform=NZKPT)) | 西安科技大学学报, 2025, doi: 	10.13800/j.cnki.xakjdxxb.2025.0519. (合作作者，北大中文核心)
 </div>
 </div>
 
