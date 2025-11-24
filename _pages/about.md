@@ -174,10 +174,10 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">数学建模</div><img src='../images/proj5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">社会实践</div><img src='../images/proj5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**5.智慧赋能数字乡村**
+**5.[智慧赋能数字乡村](https://jcn5rfr6x2z1.feishu.cn/file/SCrDbww3KoDwyTxl3aqc4JGEnPh)**
 - 社会实践类，校级一等奖
 - 调研：发放1629份问卷，利用SPSS分析数据，了解老年群体智能手机使用现状与数字素养能力现状
 - 实践：走进北京市4个行政区，开展科技助老活动15场，服务时长426小时，服务群体2000余人
