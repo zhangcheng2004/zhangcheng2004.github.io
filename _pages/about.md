@@ -134,13 +134,22 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 </div>
 
 # 🎖️ 项目经历
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">数学建模</div><img src='../images/proj4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**1.[基于深度学习与三维重构的围岩裂隙智能识别与勘探优化](https://jcn5rfr6x2z1.feishu.cn/file/VxzCbZVfJoN0NExN09AcjjbHn7X)**
+- 全国研究生数学建模竞赛，全国二等奖
+- 为解决地质勘探中人工识别低效、决策缺乏数据支撑的难题，创新采用“逆向生成”策略合成数据解决标注缺失，训练“传统图像处理+U-Net”混合模型实现像素级分割(R²>90%)；进而构建三维数字孪生及不确定性评估模型，为钻孔布局提供数据驱动的决策支持(模型解释力>75%)。
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">数学建模</div><img src='../images/proj1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**1.[基于遗传算法的多波束探测器海底地形测线优化研究](https://jcn5rfr6x2z1.feishu.cn/file/Bf5tbGl3Dogednxx8tEcNhG7nSd)**
-- 数学建模类，北京市一等奖
-- 模型构建：针对多波束探测系统在海底地形测量中的应用，综合考虑地形坡度、探测重叠率等多重约束，构建了覆盖宽度和重叠率的数学模型
-- 算法优化：运用遗传算法对测线布局进行多目标优化，设计出兼顾“测量长度最短”与“海域完全覆盖”的最优布设方案，最终将漏测海域面积占比优化至2.72%，有效提升了探测效率与经济性
+**2.[基于遗传算法的多波束探测器海底地形测线优化研究](https://jcn5rfr6x2z1.feishu.cn/file/Bf5tbGl3Dogednxx8tEcNhG7nSd)**
+- 全国大学生数学建模竞赛，北京市一等奖
+- 为解决探测任务中效率、成本与质量的多目标冲突，设计了基于遗传算法的智能路径规划方案。通过构建融合地形坡度等多重约束的数学模型，将现实问题转化为优化任务，并运用遗传算法多目标寻优，最终方案在保障>97%覆盖率下将漏测海域占比优化至2.72%，有效提升探测效率。
 
 </div>
 </div>
@@ -148,10 +157,9 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">数学建模</div><img src='../images/proj2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**2.[基于XGBoost的二手帆船价格预测与影响因素分析](https://jcn5rfr6x2z1.feishu.cn/file/KMb0bPgF1ohnW9xsDTvc9szEnib)**
-- 数学建模类，H奖(全国二等奖)
-- 模型构建预测：整合多源数据并完成数据预处理，对比9种机器学习回归模型，最终选定并优化XGBoost算法，构建了高精度的二手帆船价格预测模型 (测试集R²=0.887)
-- 模型应用洞察：运用特征重要性分析，量化并验证了“区域效应”对帆船价格的显著影响；最终将模型应用于香港市场，并为经纪商撰写了包含数据图表的定制化分析报告
+**3.[基于XGBoost的二手帆船价格预测与影响因素分析](https://jcn5rfr6x2z1.feishu.cn/file/KMb0bPgF1ohnW9xsDTvc9szEnib)**
+- 美国大学生数学建模竞赛，Honorable Mention
+- 为解决二手帆船市场定价难、决策慢的问题，构建了集精准预测与商业洞察于一体的数据解决方案。通过评估9种机器学习模型，选定并优化XGBoost算法构建高精度价格预测模型(R²=0.887)，并量化验证了“区域效应”对价格的影响。最终将模型洞察应用于香港市场，为经纪商提供了含数据可视化的分析报告与定价策略。
 
 </div>
 </div>
@@ -159,19 +167,21 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">数学建模</div><img src='../images/proj3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**3.[基于机器学习的体育竞赛动量演化与关键节点预测研究](https://jcn5rfr6x2z1.feishu.cn/file/X03GbFmhEolWqnxw0rScB8EVnbd)**
-- 数学建模类，H奖(全国二等奖)
-- 动量化建模：综合21项指标，基于熵权TOPSIS法构建了一套运动员动量评估模型，并通过K-S统计检验，证明了动量是影响比赛走向的关键因素
-- 赛点预测：搭建了基于改进网格搜索的随机森林(IGSRF)模型，用于预测比赛中动量的关键转折点，模型预测准确率高达89.23%，并成功泛化至美网、世乒赛等不同赛事
+**4.[基于机器学习的体育竞赛动量演化与关键节点预测研究](https://jcn5rfr6x2z1.feishu.cn/file/X03GbFmhEolWqnxw0rScB8EVnbd)**
+- 美国大学生数学建模竞赛，Honorable Mention
+- 为解决体育竞技中“势能”的抽象概念难以量化分析的难题，设计了从定义到预测的完整分析框架。通过熵权TOPSIS法整合21项指标构建“动量”评估模型，首次将比赛“势能”数据化；并搭建IGSRF模型预测关键转折点，准确率达89.23%，且成功泛化至美网、世乒赛等不同赛事，验证了其鲁棒性。
 
 </div>
 </div>
 
-**4.蓝桥杯全国软件和信息技术专业人才大赛C++程序设计**
-- 编程类，北京市三等奖
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">数学建模</div><img src='../images/proj5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **5.智慧赋能数字乡村**
 - 社会实践类，校级一等奖
 - 调研：发放1629份问卷，利用SPSS分析数据，了解老年群体智能手机使用现状与数字素养能力现状
 - 实践：走进北京市4个行政区，开展科技助老活动15场，服务时长426小时，服务群体2000余人
-- 宣传：事迹得到北京日报等媒体的报道，实践纪录片播放量超过50000，开发“银龄智慧助手”小程序
+- 宣传：事迹得到中国青年报、北京日报等媒体的报道，实践纪录片播放量超过50000，开发“银龄智慧助手”小程序
+
+</div>
+</div>
