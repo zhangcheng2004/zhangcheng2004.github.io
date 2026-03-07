@@ -42,6 +42,45 @@ redirect_from:
 - *2025.09 - 2027.06*, 厦门大学，社会学硕士学位（推免，提前1年毕业），导师：徐延辉教授
 - *2021.09 - 2025.06*, 中国地质大学（北京），经济学学士学位，导师：李莉教授
 
+# 💻 实习经历
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">快手</div><img src='../images/corpo3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+*2025.12 - 至今*, [快手](https://www.kuaishou.com/), 北京.
+
+- **海外用户增长产品实习生**
+- **2026 世界杯拉新与回流专项**：面向巴西市场设计“赛事竞猜+社交裂变”玩法，预期为巴西大盘贡献超20w新客及回流增量。独立负责：
+  - **炫耀海报（高优转化）**：挖掘WhatsApp生态“赢球炫耀/输球自嘲”社交情绪，设计分享海报，构建“竞猜-生成海报-站外分享-点击回流”链路。
+  - **每日抽奖（疲劳期保活）**：针对非赛期DAU回落，设计免费抽奖提高留存，并叠加邀请好友、看广告等额外抽奖方式，实现留存与裂变、商业化的结合。
+- **定向推荐策略优化**：针对静态关系链推荐转化低的问题，将单一特征升级为“动态互动时间因子+同好内容图谱”，精准圈选高亲密且沉默用户，降低分享决策阻力。
+- **裂变卡片优化**：引入巴西PIX提现等本地化元素叠加“熟人ID+稀缺感文案”，核心指标分享拉端率（PV）绝对提升绝对提升至4.4%。
+- **站外召回链路闭环**：基于UID/DID映射构建WhatsApp外站召回体系。通过受众分层与Push素材迭代，召回转化率由6%提升至11%，获客成本降至0.4美元。
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">快手</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+*2025.02 - 2025.08*, [快手](https://www.kuaishou.com/new-reco), 北京.
+
+- **商业化策略实习生**
+- **多模态AI广告打标系统**：应对精细化运营导致的打标效率瓶颈，梳理H5落地页特征提取链路。依托Luigi平台设计多模态AI自动化打标策略，单条物料耗时由小时级压缩至分钟级（效率提升90%），准确率稳定在95%以上。
+- **业务诊断与归因分析**：搭建“客户×产品×点位×矩阵×内容×定向×模型”分析框架。基于KwaiBI构建多维数据看板，独立输出通信行业头部广告主投放效果归因报告，提炼优化点并推动业务线执行。
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">好未来</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+*2024.07 - 2024.11*, [好未来教育集团](https://www.100tal.com/), 北京.
+
+- **商业数据分析实习生**
+- **智能客诉分析系统**：针对海量非结构化客诉文本处理低效痛点，基于Dify平台搭建多Agent协同工作流。引入RAG技术挂载业务知识库，实现客诉情绪精准识别与工单自动分类。单月节省人工打标成本约4PD，处理效率提升80%。
+- **增长漏斗模型构建与异动归因**：梳理客资从“触达-留资-转化”全链路漏斗，对核心流失节点进行因果定量分析。搭建多校区健康度诊断模型，精准预警3次客资异常波动，并协同运营完成策略纠偏。
+</div>
+</div>
+
 # 📝 学术论文与个人博客
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Cleaner Production</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -107,44 +146,6 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 </div>
 </div>
 
-# 💻 实习经历
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">快手</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-*2025.12 - 至今*, [快手](https://www.kuaishou.com/), 北京.
-
-- **海外用户增长产品实习生**
-- **2026 世界杯拉新与回流专项**：面向巴西市场设计“赛事竞猜+社交裂变”玩法，预期为巴西大盘贡献超20w新客及回流增量。独立负责：
-  - **炫耀海报（高优转化）**：挖掘WhatsApp生态“赢球炫耀/输球自嘲”社交情绪，设计分享海报，构建“竞猜-生成海报-站外分享-点击回流”链路。
-  - **每日抽奖（疲劳期保活）**：针对非赛期DAU回落，设计免费抽奖提高留存，并叠加邀请好友、看广告等额外抽奖方式，实现留存与裂变、商业化的结合。
-- **定向推荐策略优化**：针对静态关系链推荐转化低的问题，将单一特征升级为“动态互动时间因子+同好内容图谱”，精准圈选高亲密且沉默用户，降低分享决策阻力。
-- **裂变卡片优化**：引入巴西PIX提现等本地化元素叠加“熟人ID+稀缺感文案”，核心指标分享拉端率（PV）绝对提升绝对提升至4.4%。
-- **站外召回链路闭环**：基于UID/DID映射构建WhatsApp外站召回体系。通过受众分层与Push素材迭代，召回转化率由6%提升至11%，获客成本降至0.4美元。
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">快手</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-*2025.02 - 2025.08*, [快手](https://www.kuaishou.com/new-reco), 北京.
-
-- **商业化策略实习生**
-- **多模态AI广告打标系统**：应对精细化运营导致的打标效率瓶颈，梳理H5落地页特征提取链路。依托Luigi平台设计多模态AI自动化打标策略，单条物料耗时由小时级压缩至分钟级（效率提升90%），准确率稳定在95%以上。
-- **业务诊断与归因分析**：搭建“客户×产品×点位×矩阵×内容×定向×模型”分析框架。基于KwaiBI构建多维数据看板，独立输出通信行业头部广告主投放效果归因报告，提炼优化点并推动业务线执行。
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">好未来</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-*2024.07 - 2024.11*, [好未来教育集团](https://www.100tal.com/), 北京.
-
-- **商业数据分析实习生**
-- **智能客诉分析系统**：针对海量非结构化客诉文本处理低效痛点，基于Dify平台搭建多Agent协同工作流。引入RAG技术挂载业务知识库，实现客诉情绪精准识别与工单自动分类。单月节省人工打标成本约4PD，处理效率提升80%。
-- **增长漏斗模型构建与异动归因**：梳理客资从“触达-留资-转化”全链路漏斗，对核心流失节点进行因果定量分析。搭建多校区健康度诊断模型，精准预警3次客资异常波动，并协同运营完成策略纠偏。
-</div>
-</div>
 
 # 🎖️ 项目经历
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">B端AI产品化</div><img src='../images/proj4.png' alt="sym" width="100%"></div></div>
