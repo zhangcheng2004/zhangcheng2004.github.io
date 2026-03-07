@@ -18,14 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 欢迎! 
-> 我现为[厦门大学社会学](https://ssa.xmu.edu.cn/)研一学生，有幸师从[徐延辉教授](https://ssa.xmu.edu.cn/info/1190/1152.htm)。本科毕业于[中国地质大学（北京）经济学](https://sem.cugb.edu.cn/)专业，有幸师从[李莉教授](https://scholar.cugb.edu.cn/scholar/scholarDetail/620.shtml) ，在能源经济学领域开展了多项研究工作。我的研究兴趣涵盖能源经济学、环境经济学、经济社会学及机器学习等领域。
+> 我现为[厦门大学社会学](https://ssa.xmu.edu.cn/)硕士生（推免，提前1年毕业，2027届应届生），有幸师从[徐延辉教授](https://ssa.xmu.edu.cn/info/1190/1152.htm)。本科毕业于[中国地质大学（北京）经济学](https://sem.cugb.edu.cn/)专业，有幸师从[李莉教授](https://scholar.cugb.edu.cn/scholar/scholarDetail/620.shtml)。我的研究兴趣涵盖能源经济学、环境经济学等领域，同时我的求职方向为**产品经理/产品策划**。
 > 
-> 2024年7月至11月期间，我在[好未来](https://www.100tal.com/)担任商业数据分析实习生，在周函老师的指导下负责数据分析与用户研究。
-> 2025年2月至8月期间，我在[快手](https://www.kuaishou.com/new-reco)担任商业化行业运营实习生，在于宸老师、张磊老师的指导下专注于商业广告数据分析，并在空余时间探索AI在业务中的应用。
+> 2025年12月至今，我在[快手](https://www.kuaishou.com/)担任海外用户增长产品实习生，聚焦拉新与回流专项；
+> 2025年2月至8月期间，我在快手担任商业化策略实习生，探索AI打标系统与数据归因；
+> 2024年7月至11月期间，我在[好未来](https://www.100tal.com/)担任商业数据分析实习生，负责客诉智能分析与漏斗模型搭建。
 > 
-> 如果您对我的研究工作感兴趣，欢迎通过[邮箱](mailto:zorange411@gmail.com)与我联系。希望以上介绍能帮助您更好地了解我的学术背景与研究方向。
+> 如果您对我的研究或产品实践工作感兴趣，欢迎通过[邮箱](mailto:zorange411@gmail.com)与我联系。希望以上介绍能帮助您更好地了解我的学术背景与业务实践。
 
 # 🔥 近期动态
+- *2025.12*：&nbsp;🎉 加入快手担任海外用户增长产品实习生.
 - *2025.09*：&nbsp;🎉 新项目[《100次随机抽样》](https://www.xiaohongshu.com/discovery/item/68da1be9000000001201dc9a?source=webshare&xhsshare=pc_web&xsec_token=ABgJCDCD9AltTgJKf-AJywUkvGNeirUbVUT4hY8BMjDXI=&xsec_source=pc_share)立项（筹备、推进中，欢迎报名）.
 - *2025.09*：&nbsp;🎉 学术论文发表于**Environment, Development and Sustainability** (第一作者+通讯作者，JCR二区，IF=4.2).
 - *2025.09*：&nbsp;🎉 学术论文发表于**西安科技大学学报** (合作作者，北大中文核心).
@@ -37,8 +39,8 @@ redirect_from:
 - *2024.06*: &nbsp;🎉 学术论文发表于 **Science of The Total Environment** (第三作者，中科院一区TOP，IF=8.0).
 
 # 📖 教育经历
+- *2025.09 - 2027.06*, 厦门大学，社会学硕士学位（推免，提前1年毕业），导师：徐延辉教授
 - *2021.09 - 2025.06*, 中国地质大学（北京），经济学学士学位，导师：李莉教授
-- *2025.09 - 2028.06*, 厦门大学，法学硕士学位，导师：徐延辉教授
 
 # 📝 学术论文与个人博客
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Cleaner Production</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
@@ -92,7 +94,7 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 
 卢宇涛, 张国强, 张飞, **张丞**, 苏贺涛, 胡佳怡
 
-[**Project**]([https://www.sciencedirect.com/science/article/abs/pii/S0048969724039251#preview-section-references](https://kns.cnki.net/kcms2/article/abstract?v=krTYG2tdvzpMC4vVi_woNCQdNE4dLJceqEBGwZz9qTlBH6hLL0ciOh1iWixTEpJ8lCDuxb4aaiewpvEkUtC9ghF14KbMkRJ9As-LOW6gqvq2FLx83nqG6hWbsOdClVA5TyzEuOrY_cnb_kyuHbYCJnmGSS1fFA-QcpXJg0HFr98=&uniplatform=NZKPT)) | 西安科技大学学报, 2025, doi: 	10.13800/j.cnki.xakjdxxb.2025.0519. (合作作者，北大中文核心)
+[**Project**]([https://www.sciencedirect.com/science/article/abs/pii/S0048969724039251#preview-section-references](https://kns.cnki.net/kcms2/article/abstract?v=krTYG2tdvzpMC4vVi_woNCQdNE4dLJceqEBGwZz9qTlBH6hLL0ciOh1iWixTEpJ8lCDuxb4aaiewpvEkUtC9ghF14KbMkRJ9As-LOW6gqvq2FLx83nqG6hWbsOdClVA5TyzEuOrY_cnb_kyuHbYCJnmGSS1fFA-QcpXJg0HFr98=&uniplatform=NZKPT)) | 西安科技大学学报, 2025, doi:  10.13800/j.cnki.xakjdxxb.2025.0519. (合作作者，北大中文核心)
 </div>
 </div>
 
@@ -107,16 +109,18 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 
 # 💻 实习经历
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">好未来</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">快手</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-*2024.07 - 2024.11*, [好未来教育集团](https://www.100tal.com/), 北京.
+*2025.12 - 至今*, [快手](https://www.kuaishou.com/), 北京.
 
-- **商业数据分析与AI产品运营**
-- mt/ld：徐佳老师、周函老师
-- 商业数据运营(40%)：运用Excel和SQL搭建可视化报表，实现了对曝光、点击、转化率、电话接通率等关键指标的日/周/月粒度监控。通过该体系，主动发现并预警了3次客资异常波动，为团队争取了宝贵的调整时间
-- 模型搭建与数据探索(30%)：运用ProcessOn搭建客资链路增长模型，并利用SPSS和Python定量分析指标因果关系，挖掘业务增长点。此外，运用Origin搭建健康度诊断模型，负责青岛、宁波等校的诊断分析
-- AI产品(30%)：主导开发了[基于 Dify 平台的客诉智能分析系统](https://jcn5rfr6x2z1.feishu.cn/docx/H6wUdt5ykogLhzxjil9c4LoYnkt)，运用多 Agent 工作流与 RAG 技术实现对多源客诉文本的精准情感判断与标签分类。项目使客诉处理效率提升80% (每月为团队节约3-4个工作日)
+- **海外用户增长产品实习生**
+- **2026 世界杯拉新与回流专项**：面向巴西市场设计“赛事竞猜+社交裂变”玩法，预期为巴西大盘贡献超20w新客及回流增量。独立负责：
+  - **炫耀海报（高优转化）**：挖掘WhatsApp生态“赢球炫耀/输球自嘲”社交情绪，设计分享海报，构建“竞猜-生成海报-站外分享-点击回流”链路。
+  - **每日抽奖（疲劳期保活）**：针对非赛期DAU回落，设计免费抽奖提高留存，并叠加邀请好友、看广告等额外抽奖方式，实现留存与裂变、商业化的结合。
+- **定向推荐策略优化**：针对静态关系链推荐转化低的问题，将单一特征升级为“动态互动时间因子+同好内容图谱”，精准圈选高亲密且沉默用户，降低分享决策阻力。
+- **裂变卡片优化**：引入巴西PIX提现等本地化元素叠加“熟人ID+稀缺感文案”，核心指标分享拉端率（PV）绝对提升绝对提升至4.4%。
+- **站外召回链路闭环**：基于UID/DID映射构建WhatsApp外站召回体系。通过受众分层与Push素材迭代，召回转化率由6%提升至11%，获客成本降至0.4美元。
 </div>
 </div>
 
@@ -125,31 +129,40 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
   
 *2025.02 - 2025.08*, [快手](https://www.kuaishou.com/new-reco), 北京.
 
-- **商业化行业运营**
-- mt/ld：于宸老师、张磊老师
-- 日常数据运营(30%)：负责商业化广告核心指标监控体系搭建，基于KwaiBI平台，独立编写SQL并搭建了从客户×产品×点位的多维度数据看板。通过对消耗、出价等指标的监控，主动发现并定位业务问题，为后续的策略优化提供了数据支持-[对外双周报](https://docs.qingque.cn/d/home/eZQB2WZr3Teq6qfvxxOXPBXEm?identityId=2FbI2dajR7T#section=h.5i0qm9u1c429)
-- 行业运营(40%)：从广告投放逻辑出发，构建了“点位×矩阵×内容×定向×模型”五维分析框架。独立完成对通信行业头部广告主的深度分析，主动发现业务问题，提报并追踪工单，并推动多方解决，产出业务分析与建议
-- AI产品(30%)：独立设计并实现[基于快手Luigi平台多模态AI的H5落地页自动化打标方案](https://jcn5rfr6x2z1.feishu.cn/docx/ZI03dPBuooUM8SxHMwwcM6dhnke)，将打标效率从小时级提升至分钟级，准确率达95%，有效赋能了广告的精细化运营与精准投放
+- **商业化策略实习生**
+- **多模态AI广告打标系统**：应对精细化运营导致的打标效率瓶颈，梳理H5落地页特征提取链路。依托Luigi平台设计多模态AI自动化打标策略，单条物料耗时由小时级压缩至分钟级（效率提升90%），准确率稳定在95%以上。
+- **业务诊断与归因分析**：搭建“客户×产品×点位×矩阵×内容×定向×模型”分析框架。基于KwaiBI构建多维数据看板，独立输出通信行业头部广告主投放效果归因报告，提炼优化点并推动业务线执行。
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">好未来</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+*2024.07 - 2024.11*, [好未来教育集团](https://www.100tal.com/), 北京.
+
+- **商业数据分析实习生**
+- **智能客诉分析系统**：针对海量非结构化客诉文本处理低效痛点，基于Dify平台搭建多Agent协同工作流。引入RAG技术挂载业务知识库，实现客诉情绪精准识别与工单自动分类。单月节省人工打标成本约4PD，处理效率提升80%。
+- **增长漏斗模型构建与异动归因**：梳理客资从“触达-留资-转化”全链路漏斗，对核心流失节点进行因果定量分析。搭建多校区健康度诊断模型，精准预警3次客资异常波动，并协同运营完成策略纠偏。
 </div>
 </div>
 
 # 🎖️ 项目经历
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">数学建模</div><img src='../images/proj4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">B端AI产品化</div><img src='../images/proj4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**1.[基于深度学习与三维重构的围岩裂隙智能识别与勘探优化](https://jcn5rfr6x2z1.feishu.cn/file/VxzCbZVfJoN0NExN09AcjjbHn7X)**
+**1.[地质勘探围岩智能识别系统 (B端AI产品化实践)](https://jcn5rfr6x2z1.feishu.cn/file/VxzCbZVfJoN0NExN09AcjjbHn7X)**
 - 全国研究生数学建模竞赛，全国二等奖
-- 为解决地质勘探中人工识别低效、决策缺乏数据支撑的难题，创新采用“逆向生成”策略合成数据解决标注缺失，训练“传统图像处理+U-Net”混合模型实现像素级分割(R²>90%)；进而构建三维数字孪生及不确定性评估模型，为钻孔布局提供数据驱动的决策支持(模型解释力>75%)。
+- 针对人工围岩识别效率低、决策无量化支撑的痛点，采用逆向生成策略解决样本缺失问题，设计「传统图像处理+U-Net」混合模型的产品化落地逻辑，实现像素级分割精度R²>90%。搭建三维数字孪生与不确定性评估模型，为钻孔布局规划提供数据驱动的决策辅助，模型解释力超75%。
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">数学建模</div><img src='../images/proj1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">策略产品化</div><img src='../images/proj1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**2.[基于遗传算法的多波束探测器海底地形测线优化研究](https://jcn5rfr6x2z1.feishu.cn/file/Bf5tbGl3Dogednxx8tEcNhG7nSd)**
+**2.[海底地形探测智能规划算法 (策略产品化实践)](https://jcn5rfr6x2z1.feishu.cn/file/Bf5tbGl3Dogednxx8tEcNhG7nSd)**
 - 全国大学生数学建模竞赛，北京市一等奖
-- 为解决探测任务中效率、成本与质量的多目标冲突，设计了基于遗传算法的智能路径规划方案。通过构建融合地形坡度等多重约束的数学模型，将现实问题转化为优化任务，并运用遗传算法多目标寻优，最终方案在保障>97%覆盖率下将漏测海域占比优化至2.72%，有效提升探测效率。
+- 针对探测任务中覆盖率、成本与质量的冲突，抽象核心约束条件（地形坡度，测幅等）构建路径规划数学模型。引入多目标遗传算法进行寻优迭代，输出在保障>97%覆盖率下将漏测占比压缩至2.72%的较优路径方案，验证了复杂业务约束下的策略可行性。
 
 </div>
 </div>
