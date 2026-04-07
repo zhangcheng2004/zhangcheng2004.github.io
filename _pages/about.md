@@ -17,30 +17,40 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 欢迎! 
-> 我现为[厦门大学社会学](https://ssa.xmu.edu.cn/)硕士生（推免，提前1年毕业，2027届应届生），有幸师从[徐延辉教授](https://ssa.xmu.edu.cn/info/1190/1152.htm)。本科毕业于[中国地质大学（北京）经济学](https://sem.cugb.edu.cn/)专业，有幸师从[李莉教授](https://scholar.cugb.edu.cn/scholar/scholarDetail/620.shtml)。我的研究兴趣涵盖能源经济学、环境经济学等领域，同时我的求职方向为**产品经理/产品策划**。
-> 
-> 2025年12月至今，我在[快手](https://www.kuaishou.com/)担任海外用户增长产品实习生，聚焦拉新与回流专项；
-> 2025年2月至8月期间，我在快手担任商业化策略实习生，探索AI打标系统与数据归因；
-> 2024年7月至11月期间，我在[好未来](https://www.100tal.com/)担任商业数据分析实习生，负责客诉智能分析与漏斗模型搭建。
-> 
-> 如果您对我的研究或产品实践工作感兴趣，欢迎通过[邮箱](mailto:zorange411@gmail.com)与我联系。希望以上介绍能帮助您更好地了解我的学术背景与业务实践。
+# 👋 欢迎
+
+我现为**厦门大学社会学**硕士生（推免入学，提前1年毕业，2027届应届生），师从[徐延辉教授](https://ssa.xmu.edu.cn/info/1190/1152.htm)。本科毕业于**中国地质大学（北京）经济学**专业，师从[李莉教授](https://scholar.cugb.edu.cn/scholar/scholarDetail/620.shtml)。
+
+我的研究方向聚焦**能源经济学、环境经济学**，目前求职方向为 **产品经理 / 产品策划**。
+
+📌 **工作经历**：
+- **2025.12 - 至今**：[快手](https://www.kuaishou.com/) 海外用户增长产品实习生
+- **2025.02 - 2025.08**：快手 商业化策略实习生  
+- **2024.07 - 2024.11**：[好未来](https://www.100tal.com/) 商业数据分析实习生
+
+欢迎通过 [📧 邮件](mailto:zorange411@gmail.com) 联系我。
 
 # 🔥 近期动态
-- *2025.12*：&nbsp;🎉 加入快手担任海外用户增长产品实习生.
-- *2025.09*：&nbsp;🎉 新项目[《100次随机抽样》](https://www.xiaohongshu.com/discovery/item/68da1be9000000001201dc9a?source=webshare&xhsshare=pc_web&xsec_token=ABgJCDCD9AltTgJKf-AJywUkvGNeirUbVUT4hY8BMjDXI=&xsec_source=pc_share)立项（筹备、推进中，欢迎报名）.
-- *2025.09*：&nbsp;🎉 学术论文发表于**Environment, Development and Sustainability** (第一作者+通讯作者，JCR二区，IF=4.2).
-- *2025.09*：&nbsp;🎉 学术论文发表于**西安科技大学学报** (合作作者，北大中文核心).
-- *2025.05*: &nbsp;💡 新的思考["时间管理的金融工程学：一个拖延者的理论重构——关于QE、QT与人生债务的跨学科对话"](https://zhuanlan.zhihu.com/p/1892310880248640651).
-- *2024.10*: &nbsp;🎖️ 获得本科生**国家奖学金** (TOP 0.2%).
-- *2024.09*: &nbsp;📖 保研至**厦门大学**攻读硕士学位.
-- *2024.08*: &nbsp;🎉 学术论文发表于 **Sustainable Futures** (第一作者，中科院二区，IF=4.9). 
-- *2024.08*: &nbsp;🎉 学术论文发表于 **Journal of Cleaner Production** (第一作者，中科院一区TOP，IF=10.0).
-- *2024.06*: &nbsp;🎉 学术论文发表于 **Science of The Total Environment** (第三作者，中科院一区TOP，IF=8.0).
+
+| 时间 | 事件 |
+|------|------|
+| **2025.12** | 🎉 加入快手担任**海外用户增长产品实习生** |
+| 2025.09 | 🎉 新项目 [《100次随机抽样》](https://www.xiaohongshu.com/discovery/item/68da1be9000000001201dc9a?source=webshare&xhsshare=pc_web&xsec_token=ABgJCDCD9AltTgJKf-AJywUkvGNeirUbVUT4hY8BMjDXI=&xsec_source=pc_share) 立项（筹备推进中，欢迎报名） |
+| 2025.09 | 🎉 论文发表于 **Environment, Development and Sustainability** (一作+通讯，JCR二区，IF=4.2) |
+| 2025.09 | 🎉 论文发表于 **西安科技大学学报** (合作，北大中文核心) |
+| 2025.05 | 💡 知乎专栏：[时间管理的金融工程学：一个拖延者的理论重构](https://zhuanlan.zhihu.com/p/1892310880248640651) |
+| 2024.10 | 🎖️ 获得**国家奖学金** (TOP 0.2%) |
+| 2024.09 | 📖 保研至**厦门大学**攻读硕士学位 |
+| 2024.08 | 🎉 论文发表于 **Sustainable Futures** (一作，中科院二区，IF=4.9) |
+| 2024.08 | 🎉 论文发表于 **Journal of Cleaner Production** (一作，中科院一区TOP，IF=10.0) |
+| 2024.06 | 🎉 论文发表于 **Science of The Total Environment** (三作，中科院一区TOP，IF=8.0) |
 
 # 📖 教育经历
-- *2025.09 - 2027.06*, 厦门大学，社会学硕士学位（推免，提前1年毕业），**GPA 3.81/4.0 (前20%) | 发表5篇学术论文**
-- *2021.09 - 2025.06*, 中国地质大学（北京），经济学学士学位，**GPA 3.84/4.0 (前5%) | 国家奖学金 (前0.2%)、校三好学生**
+
+| 时间 | 学校 | 学位 | 成果 |
+|------|------|------|------|
+| **2025.09 - 2027.06** | 厦门大学 | 社会学硕士<br>（推免，提前1年毕业） | **GPA 3.81/4.0** (前20%)，已发表 5 篇学术论文 |
+| 2021.09 - 2025.06 | 中国地质大学（北京） | 经济学学士 | **GPA 3.84/4.0** (前5%)，国家奖学金 (TOP 0.2%)，校三好学生 |
 
 # 💻 实习经历
 
@@ -81,9 +91,26 @@ redirect_from:
 </div>
 
 # 🛠️ 技能与工具
-- **产品能力**：具备从0到1产品规划、PRD撰写与Figma原型产出能力。
-- **数据分析**：熟练使用SQL进行数据提取与漏斗分析。
-- **AI与语言**：熟悉大模型应用架构（Prompt / RAG / 多Agent协同 / Workflow / Openclaw）；英语 CET-6 (509)。
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1em; margin-bottom: 2em;">
+  <div style="background: #f8f9fa; padding: 1em; border-radius: 6px;">
+  <strong>产品能力</strong><br>
+  从0到1产品规划 • PRD撰写 • Figma 原型设计
+  </div>
+  <div style="background: #f8f9fa; padding: 1em; border-radius: 6px;">
+  <strong>数据分析</strong><br>
+  SQL 数据提取 • 漏斗分析 • BI 看板可视化
+  </div>
+  <div style="background: #f8f9fa; padding: 1em; border-radius: 6px;">
+  <strong>AI 应用</strong><br>
+  Prompt 工程 • RAG • 多Agent 协同 • 工作流编排
+  </div>
+  <div style="background: #f8f9fa; padding: 1em; border-radius: 6px;">
+  <strong>语言</strong><br>
+  英语 CET-6 (509)
+  </div>
+</div>
+
 
 # 📝 学术论文与个人博客
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Cleaner Production</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>

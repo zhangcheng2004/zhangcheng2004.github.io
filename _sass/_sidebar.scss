@@ -95,6 +95,13 @@
     max-width: 175px;
     min-width: 75px;
     border-radius: 50%;
+    box-shadow: $box-shadow;
+    transition: $global-transition;
+    
+    &:hover {
+      box-shadow: $box-shadow-hover;
+      transform: scale(1.02);
+    }
 
     @include breakpoint($large) {
       padding: 5px;
@@ -243,12 +250,17 @@
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
-    color: inherit;
+    color: $primary-color;
     font-size: $type-size-5;
     text-decoration: none;
-
+    transition: $global-transition;
+    border-radius: 3px;
+    padding-left: 4px;
+    
     &:hover {
-      text-decoration: underline;
+      background-color: rgba($primary-color, 0.05);
+      text-decoration: none;
+      color: $info-color;
     }
   }
 }

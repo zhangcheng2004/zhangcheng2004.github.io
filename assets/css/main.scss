@@ -43,12 +43,23 @@
 .paper-box {
     display: flex;
     justify-content: left;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    border-bottom: 1px $border-color solid;
+    padding: 1.5em 0 1.5em 0;
+    transition: $global-transition;
+    border-radius: $border-radius;
+    margin-bottom: 0.5em;
     
+    &:last-child {
+        border-bottom: none;
+    }
+    
+    &:hover {
+        background-color: #fafbfc;
+        transform: translateY(-2px);
+    }
 
     .paper-box-image{
         justify-content: center;
@@ -57,14 +68,31 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            box-shadow: $box-shadow;
             object-fit: cover;
+            border-radius: 4px;
+            transition: $global-transition;
+            
+            &:hover {
+                box-shadow: $box-shadow-hover;
+            }
         }
     }
     
     .paper-box-text{
         max-width: 100%;
         order: 1;
+        h3 {
+            margin-top: 0;
+            margin-bottom: 0.5em;
+            font-size: 1.2em;
+            color: $primary-color;
+            line-height: 1.4;
+        }
+        p {
+            line-height: 1.6;
+            color: $text-color;
+        }
     }
     
     @include breakpoint($medium) {
@@ -73,6 +101,7 @@
             min-width: 200px;
             max-width: 40%;
             order: 1;
+            margin-top: 0.5em;
         }
         
         .paper-box-text{
@@ -84,16 +113,15 @@
 
     }
 
-
 }
 
 $scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
+h1:before, .anchor:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
     margin-top: -$scroll_offset;
 }
 
