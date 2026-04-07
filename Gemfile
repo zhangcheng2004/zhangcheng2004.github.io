@@ -4,7 +4,6 @@ gem "minima"
 # Lock nokogiri to version compatible with Ruby 3.3
 gem "nokogiri", "~> 1.16.0"
 # Required plugins from _config.yml
-gem "jekyll-paginate"
 gem "jekyll-sitemap"
 gem "jekyll-seo-tag"
 gem "jekyll-feed"
