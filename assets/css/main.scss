@@ -58,7 +58,7 @@
     
     &:hover {
         background-color: #fafbfc;
-        transform: translateY(-2px);
+    transform: translateY(-2px);
     }
 
     .paper-box-image{
@@ -70,11 +70,13 @@
             max-width: 400px;
             box-shadow: $box-shadow;
             object-fit: cover;
-            border-radius: 4px;
+            border-radius: $border-radius;
             transition: $global-transition;
+            overflow: hidden;
             
             &:hover {
                 box-shadow: $box-shadow-hover;
+                transform: scale(1.01);
             }
         }
     }
@@ -129,9 +131,192 @@ h1:before, .anchor:before {
     padding-left: 1rem;
     padding-right: 1rem;
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
+    top: 12px;
+    left: 12px;
     color: white;
-    background-color: #00369f;
+    background-color: $primary-color;
     font-size: .8em;
+    border-radius: 12px;
+    font-weight: 500;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+/* ===========================================
+   Modern Professional Improvements
+   =========================================== */
+
+/* Improve overall page spacing and container */
+.page__inner {
+    max-width: 1200px !important;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Improve author sidebar */
+.author-profile {
+    text-align: center;
+    .author__avatar {
+        display: inline-block;
+        border-radius: 50%;
+        overflow: hidden;
+        box-shadow: $box-shadow;
+        transition: $global-transition;
+        &:hover {
+            box-shadow: $box-shadow-hover;
+            transform: scale(1.02);
+        }
+    }
+    .author__name {
+        font-size: 1.5em;
+        font-weight: 700;
+        color: $primary-color;
+        margin-bottom: 0.5em;
+        letter-spacing: -0.02em;
+    }
+    .author__bio {
+        font-size: 0.95em;
+        line-height: 1.6;
+        color: #4a5568;
+    }
+}
+
+/* Improve navigation */
+.greedy-nav {
+    background-color: transparent;
+    border-bottom: 1px solid $border-color;
+    .site-title {
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        font-size: 1.25em;
+    }
+}
+
+/* Improve paper/card entries */
+.paper-box {
+    margin-bottom: 1.5em;
+    border: 1px solid $border-color;
+    background-color: $body-color;
+    box-shadow: $box-shadow;
+    border-radius: $border-radius;
+    overflow: hidden;
+    transition: $global-transition;
+    &:hover {
+        box-shadow: $box-shadow-hover;
+        transform: translateY(-2px);
+    }
+    .badge {
+        top: 12px;
+        left: 12px;
+    }
+    .paper-box-image img {
+        border-radius: 4px;
+        transition: $global-transition;
+    }
+    .paper-box-text {
+        padding: 1em;
+        p {
+            margin-bottom: 0;
+            line-height: 1.7;
+        }
+    }
+}
+
+/* Improve publication headings */
+.page__content h2 {
+    font-size: 1.75em;
+    font-weight: 700;
+    color: $primary-color;
+    margin-bottom: 1em;
+    padding-bottom: 0.3em;
+    border-bottom: 2px solid $border-color;
+    letter-spacing: -0.03em;
+}
+
+.page__content h3 {
+    font-weight: 600;
+    letter-spacing: -0.01em;
+}
+
+/* Improve body text */
+.page__content p {
+    line-height: 1.8;
+    color: $text-color;
+}
+
+/* Improve links */
+.page__content a {
+    text-decoration: none;
+    color: $info-color;
+    border-bottom: 1px solid transparent;
+    transition: $global-transition;
+    &:hover {
+        border-bottom-color: $info-color;
+    }
+}
+
+/* Improve buttons/contact links */
+.social-icons {
+    li a {
+        color: $primary-color;
+        transition: $global-transition;
+        &:hover {
+            color: $info-color;
+            transform: translateY(-2px);
+        }
+    }
+}
+
+/* Improve footer */
+.page__footer {
+    border-top: 1px solid $border-color;
+    padding-top: 2em;
+    margin-top: 3em;
+    color: #718096;
+    font-size: 0.9em;
+}
+
+/* Improve list spacing */
+.page__content ul {
+    li {
+        margin-bottom: 0.5em;
+        line-height: 1.7;
+    }
+}
+
+/* Add subtle animation on page load */
+.page__content {
+    animation: fadeInUp 0.6s ease-out;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Improve mobile responsiveness */
+@media screen and (max-width: 64em) {
+    .sidebar {
+        padding-top: 1em;
+    }
+    .paper-box {
+        padding: 1em;
+    }
+}
+
+/* Darker text hierarchy */
+strong {
+    color: $primary-color;
+    font-weight: 600;
+}
+
+/* Improve code blocks */
+pre {
+    border-radius: $border-radius;
+    border: 1px solid $border-color;
 }

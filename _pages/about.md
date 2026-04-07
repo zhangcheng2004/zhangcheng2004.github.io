@@ -54,7 +54,7 @@ redirect_from:
 
 # 💻 实习经历
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">快手</div><img src='../images/corpo3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">快手</div><img src='images/corpo3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 *2025.12 - 至今*, [快手](https://www.kuaishou.com/), 北京.
@@ -68,7 +68,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">快手</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">快手</div><img src='images/corpo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 *2025.02 - 2025.08*, [快手](https://www.kuaishou.com/new-reco), 北京.
@@ -79,7 +79,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">好未来</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">好未来</div><img src='images/corpo1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 *2024.07 - 2024.11*, [好未来教育集团](https://www.100tal.com/), 北京.
@@ -92,28 +92,65 @@ redirect_from:
 
 # 🛠️ 技能与工具
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1em; margin-bottom: 2em;">
-  <div style="background: #f8f9fa; padding: 1em; border-radius: 6px;">
-  <strong>产品能力</strong><br>
-  从0到1产品规划 • PRD撰写 • Figma 原型设计
+<div class="skills-grid">
+  <div class="skill-card">
+    <strong>产品能力</strong><br>
+    <span>从0到1产品规划 • PRD撰写 • Figma 原型设计</span>
   </div>
-  <div style="background: #f8f9fa; padding: 1em; border-radius: 6px;">
-  <strong>数据分析</strong><br>
-  SQL 数据提取 • 漏斗分析 • BI 看板可视化
+  <div class="skill-card">
+    <strong>数据分析</strong><br>
+    <span>SQL 数据提取 • 漏斗分析 • BI 看板可视化</span>
   </div>
-  <div style="background: #f8f9fa; padding: 1em; border-radius: 6px;">
-  <strong>AI 应用</strong><br>
-  Prompt 工程 • RAG • 多Agent 协同 • 工作流编排
+  <div class="skill-card">
+    <strong>AI 应用</strong><br>
+    <span>Prompt 工程 • RAG • 多Agent 协同 • 工作流编排</span>
   </div>
-  <div style="background: #f8f9fa; padding: 1em; border-radius: 6px;">
-  <strong>语言</strong><br>
-  英语 CET-6 (509)
+  <div class="skill-card">
+    <strong>语言</strong><br>
+    <span>英语 CET-6 (509)</span>
   </div>
 </div>
 
+<style>
+.skills-grid {
+  display: grid; 
+  grid-template-columns: 1fr 1fr; 
+  gap: 1em; 
+  margin-bottom: 2em;
+}
+.skill-card {
+  background: #f8f9fa; 
+  padding: 1.25em 1em; 
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.skill-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  background: #ffffff;
+}
+.skill-card strong {
+  color: #2d3748;
+  font-size: 1.05em;
+  display: block;
+  margin-bottom: 0.5em;
+}
+.skill-card span {
+  color: #4a5568;
+  line-height: 1.6;
+}
+@media (max-width: 640px) {
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
 
 # 📝 学术论文与个人博客
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Cleaner Production</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Cleaner Production</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The coordinated development among economy, society, energy, and environment and their impacts on public health in China's cities](https://www.sciencedirect.com/science/article/abs/pii/S0959652624028919?via%3Dihub=)
@@ -124,7 +161,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Futures</div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Futures</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The impact of digital economy on energy conservation and emission reduction: evidence from prefecture-level cities in China](https://www.sciencedirect.com/science/article/pii/S2666188824001370#abs0001)
@@ -135,7 +172,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environment, Development and Sustainability</div><img src='../images/paper4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Environment, Development and Sustainability</div><img src='images/paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [How new quality productive forces influenced the Urban-Rural income gap: evidence from prefectural cities in China](https://link.springer.com/article/10.1007/s10668-025-06929-3)
@@ -146,7 +183,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science of The Total Environment</div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science of The Total Environment</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Spatio-temporal differentiation characteristics and the influencing factors of PM2.5 emissions from coal consumption in Central Plains Urban Agglomeration](https://www.sciencedirect.com/science/article/abs/pii/S0048969724039251#preview-section-references)

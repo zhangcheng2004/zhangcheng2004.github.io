@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 14;
+$doc-font-size              : 16;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -53,18 +53,18 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
+$body-color                 : #ffffff;
+$background-color           : #fbfbfb;
+$code-background-color      : #f6f8fa;
 $code-background-color-dark : $light-gray;
-$text-color                 : #2c3e50;
-$border-color               : #e1e8ed;
+$text-color                 : #1a202c;
+$border-color               : #e2e8f0;
 
-$primary-color              : #2c3e50;
-$success-color              : #27ae60;
-$warning-color              : #f39c12;
-$danger-color               : #e74c3c;
-$info-color                 : #2980b9;
+$primary-color              : #2d3748;
+$success-color              : #2f855a;
+$warning-color              : #ed8936;
+$danger-color               : #e53e3e;
+$info-color                 : #3182ce;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -146,9 +146,9 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius              : 6px;
-$box-shadow                 : 0 2px 8px rgba(0, 0, 0, 0.08);
-$box-shadow-hover           : 0 4px 16px rgba(0, 0, 0, 0.12);
+$border-radius              : 8px;
+$box-shadow                 : 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+$box-shadow-hover           : 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
-$global-transition          : all 0.3s ease-in-out;
+$global-transition          : all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
