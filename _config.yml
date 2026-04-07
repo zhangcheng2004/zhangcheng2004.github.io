@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "张丞"
 description              : "张丞个人主页"
+url                      : "https://zhangcheng2004.github.io"
+baseurl                  : ""
 repository               : "zhangcheng2004.github.io"
 google_scholar_stats_use_cdn : true
 
