@@ -158,7 +158,7 @@ redirect_from:
 
 *Journal of Cleaner Production, 2024 • 第一作者，中科院一区TOP, IF=10.0*
 
-<p style="font-size: 0.9em; color: #555; line-height: 1.5;
+<p style="font-size: 0.9em; color: #555; line-height: 1.5;">
 This study constructs a coordination evaluation system and uses a fixed-effects model to examine how coordinated development affects public health in Chinese cities. Results show that the overall coordination level has been increasing steadily with clear regional differences. Coordinated development significantly promotes better public health outcomes, providing empirical evidence for policy-making on sustainable development.
 </p>
 
@@ -174,7 +174,7 @@ This study constructs a coordination evaluation system and uses a fixed-effects 
 
 *Sustainable Futures, 2024 • 第一作者，中科院二区, IF=4.9*
 
-<p style="font-size: 0.9em; color: #555; line-height: 1.5;
+<p style="font-size: 0.9em; color: #555; line-height: 1.5;">
 This paper investigates the causal relationship and transmission mechanisms between digital economy development and energy conservation/emission reduction using a multi-phase difference-in-differences model. The results indicate that the digital economy significantly reduces carbon intensity in Chinese cities, with the strongest effect observed in northern China. Technological innovation and industrial upgrading are key transmission channels.
 </p>
 
@@ -190,7 +190,7 @@ This paper investigates the causal relationship and transmission mechanisms betw
 
 *Environment, Development and Sustainability, 2025 • 第一作者&通讯作者，JCR二区, IF=4.2*
 
-<p style="font-size: 0.9em; color: #555; line-height: 1.5;
+<p style="font-size: 0.9em; color: #555; line-height: 1.5;">
 This study constructs an index system to measure new quality productive forces (NQPF) and empirically examines its impact on the urban-rural income gap using prefecture-level panel data. The NQPF significantly narrows the urban-rural income gap, with a more pronounced effect in eastern China. Its influence is primarily transmitted through human capital accumulation and technological innovation, offering policy insights for inclusive growth.
 </p>
 
@@ -206,7 +206,7 @@ Fujie Yang, Jiayi Yu, **Cheng Zhang**, Li Li, Yalin Lei, Sanmang Wu, Yibo Wang, 
 
 *Science of The Total Environment, 2024 • 第三作者，中科院一区TOP, IF=8.0*
 
-<p style="font-size: 0.9em; color: #555; line-height: 1.5;
+<p style="font-size: 0.9em; color: #555; line-height: 1.5;">
 This study analyzes the spatio-temporal evolution characteristics of PM<sub>2.5</sub> emissions from coal consumption in the Central Plains Urban Agglomeration during 2000–2021. Results show that overall emissions increased first and then decreased. Economic development level and energy intensity are the main positive driving factors, while urbanization has a significant inhibitory effect on emissions growth.
 </p>
 
@@ -222,7 +222,7 @@ This study analyzes the spatio-temporal evolution characteristics of PM<sub>2.5<
 
 *西安科技大学学报, 2025 • 合作作者，北大中文核心*
 
-<p style="font-size: 0.9em; color: #555; line-height: 1.5;
+<p style="font-size: 0.9em; color: #555; line-height: 1.5;">
 通过热重试验研究不同氧通量下新疆苇湖梁煤的燃烧特性，建立燃烧失稳判定指标，分析氧通量对燃烧稳定性的影响规律。结果表明：随着氧通量增大，燃烧速率加快，特征温度升高，燃烧稳定性呈现出先提高后降低的趋势。
 </p>
 
