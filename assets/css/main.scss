@@ -419,7 +419,13 @@ pre {
             border-bottom-color: #333;
         }
         th {
+            background-color: #252525;
+            color: #ffffff;
+            border-color: #333;
+        }
+        td {
             color: #e0e0e0;
+            border-color: #333;
         }
     }
     
@@ -433,10 +439,42 @@ pre {
         color: #e0e0e0;
     }
     
+    /* Contact info (WeChat ID, email) contrast improvement */
+    .page__content p strong {
+        color: #ffffff;
+    }
+    
+    /* Better contrast for plain text in sidebar author profile */
+    .author-profile p {
+        color: #ccc !important;
+    }
+    
+    .author-profile a {
+        color: #6ab0ff;
+    }
+    
     .social-icons li a {
         color: #6ab0ff;
         &:hover {
             color: #99ccff;
         }
+    }
+    
+    /* Improve readability for emphasized text */
+    em {
+        color: #ccc;
+    }
+    
+    /* Fix any white backgrounds on cards */
+    .card {
+        background-color: #1e1e1e !important;
+        border-color: #333;
+    }
+    
+    /* Notice/warning boxes */
+    .notice {
+        background-color: #1e1e1e;
+        border-color: #333;
+        color: #e0e0e0;
     }
 }
