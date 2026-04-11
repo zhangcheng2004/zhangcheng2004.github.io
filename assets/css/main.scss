@@ -320,3 +320,123 @@ pre {
     border-radius: $border-radius;
     border: 1px solid $border-color;
 }
+
+/* ===========================================
+   Auto Dark Mode - Follow System Preference
+   =========================================== */
+@media (prefers-color-scheme: dark) {
+    :root {
+        $primary-color: #6ab0ff !default;
+        $text-color: #e0e0e0 !default;
+        $border-color: #333 !default;
+        $body-color: #121212 !default;
+        $sidebar-bg: #1a1a1a !default;
+    }
+    
+    body {
+        background-color: #121212;
+        color: #e0e0e0;
+    }
+    
+    .masthead {
+        background-color: #1e1e1e;
+        border-bottom-color: #333;
+    }
+    
+    a {
+        color: #6ab0ff;
+        &:hover {
+            color: #99ccff;
+        }
+    }
+    
+    .page__footer {
+        background-color: #1e1e1e;
+        border-top-color: #333;
+        color: #aaa;
+    }
+    
+    .sidebar {
+        background-color: #1a1a1a;
+    }
+    
+    .greedy-nav .visible-links a {
+        color: #e0e0e0;
+        &:hover {
+            color: #6ab0ff;
+        }
+    }
+    
+    .greedy-nav .site-title {
+        color: #e0e0e0;
+    }
+    
+    .paper-box {
+        background-color: #1e1e1e;
+        border-color: #333;
+        &:hover {
+            background-color: #252525;
+        }
+    }
+    
+    .paper-box-text {
+        p {
+            color: #e0e0e0;
+        }
+        h3 {
+            color: #6ab0ff;
+        }
+    }
+    
+    .author-profile {
+        .author__name {
+            color: #6ab0ff;
+        }
+        .author__bio {
+            color: #ccc;
+        }
+    }
+    
+    .page__content h2 {
+        color: #e0e0e0;
+        border-bottom-color: #333;
+    }
+    
+    .page__content h3 {
+        color: #e0e0e0;
+    }
+    
+    .page__content p {
+        color: #e0e0e0;
+    }
+    
+    strong {
+        color: #fff;
+    }
+    
+    table {
+        tr {
+            border-bottom-color: #333;
+        }
+        th {
+            color: #e0e0e0;
+        }
+    }
+    
+    pre {
+        background-color: #1e1e1e;
+        border-color: #333;
+    }
+    
+    code {
+        background-color: #2d2d2d;
+        color: #e0e0e0;
+    }
+    
+    .social-icons li a {
+        color: #6ab0ff;
+        &:hover {
+            color: #99ccff;
+        }
+    }
+}
